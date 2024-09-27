@@ -1,0 +1,64 @@
+.filter-wrap {
+
+	padding-top: 3rem;
+	margin-bottom: 2rem;
+}
+
+.card-text.email {
+	font-size: .8rem;
+	font-style: italic;
+	padding: 0 .35rem !important;
+}
+
+.select2-container {
+	position: relative;
+   @include media-breakpoint-down(sm){
+	   width: 85%;
+   }
+}
+
+.bio-wrap > p {
+	margin-top:0 ;
+}
+
+.team-wrap {
+	//@include green-diag-gradient;
+	@include lt-blue-wht-diag-gradient;
+	padding-bottom: 3rem;
+}
+.team-grid {
+	padding-top: 2rem;
+
+	.card {
+		background: white;
+
+		a >.icon {
+			color: $med-lt-gray;
+			font-size: 1.5rem;
+			line-height: 1.75;
+
+			&:hover {
+				color: darken($brand-blue, 5%);
+			}
+		}
+
+		.location-text {
+			//padding-bottom: .25em;
+			//border-bottom: 1px solid $lightest-gray;
+			margin: .5em 0 .25em;
+		}
+
+		.card-text {
+			font-size: .975rem;
+		}
+
+		.name-text {
+			font-size: 1.2rem;
+		}
+
+		.post-thumbnail {
+			margin-bottom: .5rem;
+		}
+
+	}
+}

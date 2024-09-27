@@ -1,0 +1,90 @@
+/*
+Theme Name: StrapPress
+Theme URI: http://cstudio.com
+Author: Brad Williams
+Author URI: http://maryahayne.com
+Description: Bootstrap 4 WordPress Theme
+Version: 1.0.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: cstudio
+Tags:
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+
+StrapPress is based on Underscores http://underscores.me/, (C) 2012-2016 Automattic, Inc.
+Underscores is distributed under the terms of the GNU GPL v2 or later.
+
+Normalizing styles have been helped along thanks to the fine work of
+Nicolas Gallagher and Jonathan Neal http://necolas.github.com/normalize.css/
+*/
+/*--------------------------------------------------------------
+# Magma Variables
+--------------------------------------------------------------*/
+@import "magma/magma-vars";
+/*--------------------------------------------------------------
+# CStudio Settings
+--------------------------------------------------------------*/
+@import "cstudio/settings";
+
+/*--------------------------------------------------------------
+## Mixins
+--------------------------------------------------------------*/
+@import "cstudio/mixins";
+
+/*--------------------------------------------------------------
+# Bootstrap
+--------------------------------------------------------------*/
+
+@import "bootstrap/bootstrap";
+
+/*--------------------------------------------------------------
+## Utilities
+--------------------------------------------------------------*/
+@import "cstudio/utilities";
+
+/*--------------------------------------------------------------
+# Magma
+--------------------------------------------------------------*/
+
+@import "magma/magma";
+@import "magma/magma-icon-font";
+/*--------------------------------------------------------------
+# Vendor
+--------------------------------------------------------------*/
+@import "vendor/vendor";
+
+/*--------------------------------------------------------------
+# Media
+--------------------------------------------------------------*/
+@import "media/media";
+
+/*--------------------------------------------------------------
+# Theme Styles and Layout
+--------------------------------------------------------------*/
+@import "wordpress/wordpress";
+
+
+
+/*--------------------------------------------------------------
+# CStudio Specific
+--------------------------------------------------------------*/
+@import "cstudio/typography";
+
+/*--------------------------------------------------------------
+# CStudio Specific
+--------------------------------------------------------------*/
+@import "cstudio/buttons";
+
+/*--------------------------------------------------------------
+##  Forms
+--------------------------------------------------------------*/
+@import "cstudio/forms";
+
+/*--------------------------------------------------------------
+## Layouts
+--------------------------------------------------------------*/
+@import "cstudio/layouts/layouts";
+
+

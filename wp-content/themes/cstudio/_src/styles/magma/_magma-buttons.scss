@@ -1,0 +1,291 @@
+//@import "./../../bower_components/bootstrap/less/variables.scss";
+//@import "./../../bower_components/bootstrap/less/mixins.scss";
+//@import "./../../bower_components/bootstrap/less/buttons.scss";
+
+// Magma variables
+//@import "../assets/magma-colors.scss";
+//@import "../assets/magma-typography.scss";
+
+//== Ghost buttons states
+.btn-default.ghost {
+  background-color: transparent;
+  color: $secondary04;
+}
+
+.btn-dropdown.ghost {
+  background-color: transparent;
+  color: $secondary04;
+}
+
+.btn-primary.ghost {
+  background-color: transparent;
+  color: #007db8;
+}
+
+.btn-success.ghost {
+  background-color: transparent;
+  color: #90b82e;
+}
+
+.btn-warning.ghost {
+  background-color: transparent;
+  color: #fa6600;
+}
+
+.btn-danger.ghost {
+  background-color: transparent;
+  color: #ef0000;
+}
+$btn-font-weight: 500;
+
+.btn-default {
+  color: $accent02;
+  background-color: $primary04;
+  border-color: $secondary05;
+
+  &:hover {
+    color: $accent01;
+    background-color: $primary04;
+    border-color: $secondary05;
+  }
+
+  &.active,
+  &.focus,
+  &:active,
+  &:focus {
+    color: $accent01;
+    background-color: $secondary06;
+    border-color: $secondary05;
+  }
+}
+
+.btn-primary {
+  color: $primary04;
+  background-color: $primary02;
+  border-color: $primary02;
+
+  &:hover {
+    color: $primary04;
+    background-color: $secondary02;
+    border-color: $secondary02;
+  }
+
+  &.active,
+  &.focus,
+  &:active,
+  &:focus {
+    color: $primary04;
+    background-color: $secondary01;
+    border-color: $secondary01;
+  }
+}
+
+.btn-success {
+  color: $primary04;
+  background-color: $accent02;
+  border-color: $accent02;
+
+  &:hover {
+    color: $primary04;
+    background-color: $accent03;
+    border-color: $accent03;
+  }
+
+  &.active,
+  &.focus,
+  &:active,
+  &:focus {
+    color: $primary04;
+    background-color: $accent01;
+    border-color: $accent01;
+  }
+}
+
+.btn-info {
+  color: $primary04;
+  background-color: $secondary02;
+  border-color: $secondary02;
+
+  &:hover {
+    color: $primary04;
+    background-color: $secondary08;
+    border-color: $secondary08;
+  }
+
+  &.active,
+  &.focus,
+  &:active,
+  &:focus {
+    color: $primary04;
+    background-color: $primary02;
+    border-color: $primary02;
+  }
+}
+
+.btn-warning {
+  color: $primary04;
+  background-color: $accent05;
+  border-color: $accent05;
+
+  &:hover {
+    color: $primary04;
+    background-color: $accent06;
+    border-color: $accent06;
+  }
+
+  &.active,
+  &.focus,
+  &:active,
+  &:focus {
+    color: $primary04;
+    background-color: $accent04;
+    border-color: $accent04;
+  }
+}
+
+.btn-danger {
+  color: $primary04;
+  background-color: $limited01;
+  border-color: $limited01;
+
+  &:hover {
+    color: $primary04;
+    background-color: $limited02;
+    border-color: $limited02;
+  }
+
+  &.active,
+  &.focus,
+  &:active,
+  &:focus {
+    color: $primary04;
+    background-color: $limited01;
+    border-color: $limited01;
+  }
+}
+
+.btn {
+  border-radius: 3px;
+  font-size: 16px;
+  padding: 0.4em 15px;
+
+  &.disabled,
+  &.disabled.active,
+  &.disabled.focus,
+  &.disabled.hover,
+  &.disabled:active,
+  &.disabled:focus,
+  &.disabled:hover,
+  &:disabled,
+  &:disabled.active,
+  &:disabled.focus,
+  &:disabled.hover,
+  &:disabled:active,
+  &:disabled:focus,
+  &:disabled:hover {
+    background: $limited03 !important;
+    border-color: $limited03 !important;
+    color: rgba(122, 122, 122, 0.6) !important;
+    opacity: 1;
+  }
+}
+
+.btn.ghost {
+  &.disabled,
+  &.disabled.active,
+  &.disabled.focus,
+  &.disabled.hover,
+  &.disabled:active,
+  &.disabled:focus,
+  &.disabled:hover,
+  &:disabled,
+  &:disabled.active,
+  &:disabled.focus,
+  &:disabled.hover,
+  &:disabled:active,
+  &:disabled:focus,
+  &:disabled:hover {
+    background: transparent !important;
+    border-color: $limited03 !important;
+    color: rgba(122, 122, 122, 0.6) !important;
+  }
+}
+
+.btn-lg {
+  font-size: 20px;
+  padding: 0.4em 20px;
+}
+
+.btn-sm {
+  font-size: 14px;
+  padding: 0.4em 10px;
+}
+//== Icon buttons
+.btn-icon {
+  & > [class*=" icon-"],
+  & > [class^="icon-"] {
+    font-size: 18px;
+    position: relative;
+    top: 2px;
+
+    &:first-child {
+      padding-right: 7px;
+    }
+
+    &:last-child {
+      padding-left: 7px;
+    }
+  }
+
+  &.btn-lg > [class*=" icon-"],
+  &.btn-lg > [class^="icon-"] {
+    font-size: 20px;
+
+    &:first-child {
+      padding-right: 10px;
+    }
+
+    &:last-child {
+      padding-left: 10px;
+    }
+  }
+
+  &.btn-sm > [class*=" icon-"],
+  &.btn-sm > [class^="icon-"] {
+    font-size: 14px;
+    top: 1px;
+
+    &:first-child {
+      padding-right: 5px;
+    }
+
+    &:last-child {
+      padding-left: 5px;
+    }
+  }
+}
+//== Split Buttons
+.btn-group .btn + .btn,
+.btn-group .btn + .btn-group,
+.btn-group .btn-group + .btn,
+.btn-group .btn-group + .btn-group {
+  border-left: 1px solid $primary04!important;
+}
+
+.btn-group .btn-group + .btn.btn-default,
+.btn-group .btn-group + .btn.ghost,
+.btn-group .btn.btn-default + .btn.btn-default,
+.btn-group .btn.ghost + .btn.ghost {
+  border-left: 1px solid!important;
+}
+
+.btn-group > .btn.active,
+.btn-group > .btn:active,
+.btn-group > .btn:focus,
+.btn-group > .btn:hover,
+.btn-group-vertical > .btn.active,
+.btn-group-vertical > .btn:active,
+.btn-group-vertical > .btn:focus,
+.btn-group-vertical > .btn:hover {
+  z-index: 0;
+}

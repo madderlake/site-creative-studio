@@ -1,0 +1,95 @@
+html {
+  @include fluid-type($min_width, $max_width, $min_font, $max_font);
+}
+
+$mod_1: 1.2; // mobile
+$mod_2: 1.5; // desktop
+
+a {
+	color: $headings-color ;
+}
+
+h1 {
+  letter-spacing: $heading-ltr-spacing;
+  font-size: $mod_1*$mod_1*$mod_1*$mod_1 *1rem;
+  @include fluid-type($min_width, $max_width, $mod_1*$mod_1*$mod_1 *$min_font, $mod_2*$mod_2*$mod_2 *$min_font);
+}
+h2 {
+  font-size: $mod_1*$mod_1*$mod_1 *1rem;
+  @include fluid-type($min_width, $max_width, $mod_1*$mod_1*$mod_1 *$min_font, $mod_2*$mod_2*$mod_2 *$min_font);
+}
+h3 {
+  font-size: $mod_1*$mod_1 *1rem;
+  @include fluid-type($min_width, $max_width, $mod_1*$mod_1 *$min_font, $mod_2*$mod_2 *$min_font);
+}
+
+h2, .h2, h3, .h3, h4, .h4, h5, .h5{
+	letter-spacing: $heading-ltr-spacing;
+	font-family: $font-family-sans-serif;
+	font-weight: 300 !important;
+}
+
+.lead {
+	font-size: $font-size-med;
+	font-weight: 300;
+}
+
+.sans-serif, .open-sans-light {
+	font-family: $font-family-sans-serif;
+	font-weight: 300 !important;
+}
+
+.blockquote {
+	font-weight: 300;
+	line-height: 1.5;
+	padding: 0 1.5rem;
+	position: relative;
+	margin: 1rem 0;
+
+	p {
+		margin-left: 1em;
+	}
+
+	&.quoted{
+
+		&:before {
+			content: "";
+			width: 2.5rem;
+			height: 2.5rem;
+			background-image: url('../imgs/quote.svg');
+			background-repeat: no-repeat;
+			background-position: center center;
+			background-size: 100%;
+			background-repeat: no-repeat;
+			opacity: .175;
+			position: absolute;
+			top: -1rem;
+			left: -.25rem;
+			display: inline-block;
+			transform: scaleY(-1);
+			//transform: scaleX(-1);
+			//filter: FlipH;
+			//-ms-filter: "FlipH";
+		}
+
+		&:after {
+			content: "";
+			width: 2rem;
+			height: 2rem;
+			background-image: url('../imgs/quote.svg');
+			background-repeat: no-repeat;
+			background-position: center center;
+			background-size: 100%;
+			background-repeat: no-repeat;
+			opacity: .175;
+			position: absolute;
+			bottom: .35rem;
+			right: 3.5rem;
+			display: inline-block;
+			transform: scale(-1, -1);
+			filter: FlipH;
+			-ms-filter: "FlipH";
+		}
+
+	}
+}

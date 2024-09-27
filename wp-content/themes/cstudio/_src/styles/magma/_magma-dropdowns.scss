@@ -1,0 +1,48 @@
+// Magma variables
+//@import "../assets/magma-colors.scss";
+//@import "../assets/magma-typography.scss";
+
+ .dropdown-menu {
+      border: 1px solid $secondary06;
+      border-radius: 3px;
+      box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);
+      min-width: 220px;
+
+      & > li {
+
+          & > a {
+              font-size: 14px;
+              line-height: 1;
+              padding: 15px 20px;
+          }
+
+          &.disabled a {
+              color: $secondary05;
+              cursor: default;
+          }
+
+          &:not(.disabled) a {
+              &:focus,
+              &:hover {
+                  background: $limited03;
+                  color: inherit;
+              }
+          }
+      }
+  }
+
+  .dropdown-toggle:focus {
+      outline: 1px dotted $secondary03;
+      outline: 5px auto -webkit-focus-ring-color;
+  }
+
+  // Dividers (basically an hr) within the dropdown
+  .divider {
+      background: $secondary06;
+      margin: 7.5px 0;
+  }
+
+  .dropdown-menu-right {
+      left: auto;
+      right: 0;
+  }
