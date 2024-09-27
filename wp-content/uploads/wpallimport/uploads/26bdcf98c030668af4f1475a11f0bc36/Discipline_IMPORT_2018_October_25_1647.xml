@@ -1,0 +1,912 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<node>
+		<id><![CDATA[]]></id>
+		<title><![CDATA[Blueprint]]></title>
+		<portfolio><![CDATA[Qualitative/Quantitative Business and Skills]]></portfolio>
+		<productmanager><![CDATA[Abby Schultheis]]></productmanager>
+		<ptm><![CDATA[]]></ptm>
+		<dadesigner><![CDATA[Erin Griffin]]></dadesigner>
+		<daav><![CDATA[Monica Little]]></daav>
+	</node>
+	<node>
+		<id><![CDATA[]]></id>
+		<title><![CDATA[Career Success]]></title>
+		<portfolio><![CDATA[Qualitative/Quantitative Business and Skills]]></portfolio>
+		<productmanager><![CDATA[Abby Schultheis]]></productmanager>
+		<ptm><![CDATA[]]></ptm>
+		<dadesigner><![CDATA[Erin Griffin]]></dadesigner>
+		<daav><![CDATA[Monica Little]]></daav>
+	</node>
+	<node>
+		<id><![CDATA[]]></id>
+		<title><![CDATA[Drafting-Engineering]]></title>
+		<portfolio><![CDATA[Qualitative/Quantitative Business and Skills]]></portfolio>
+		<productmanager><![CDATA[Abby Schultheis]]></productmanager>
+		<ptm><![CDATA[]]></ptm>
+		<dadesigner><![CDATA[Erin Griffin]]></dadesigner>
+		<daav><![CDATA[Monica Little]]></daav>
+	</node>
+	<node>
+		<id><![CDATA[]]></id>
+		<title><![CDATA[Harvest Lists]]></title>
+		<portfolio><![CDATA[Qualitative/Quantitative Business and Skills]]></portfolio>
+		<productmanager><![CDATA[Abby Schultheis]]></productmanager>
+		<ptm><![CDATA[]]></ptm>
+		<dadesigner><![CDATA[Erin Griffin]]></dadesigner>
+		<daav><![CDATA[Monica Little]]></daav>
+	</node>
+	<node>
+		<id><![CDATA[]]></id>
+		<title><![CDATA[Paralegal]]></title>
+		<portfolio><![CDATA[Qualitative/Quantitative Business and Skills]]></portfolio>
+		<productmanager><![CDATA[Abby Schultheis]]></productmanager>
+		<ptm><![CDATA[]]></ptm>
+		<dadesigner><![CDATA[Erin Griffin]]></dadesigner>
+		<daav><![CDATA[Monica Little]]></daav>
+	</node>
+	<node>
+		<id><![CDATA[]]></id>
+		<title><![CDATA[Bus Math]]></title>
+		<portfolio><![CDATA[Qualitative/Quantitative Business and Skills]]></portfolio>
+		<productmanager><![CDATA[Aaron Arnsparger]]></productmanager>
+		<ptm><![CDATA[]]></ptm>
+		<dadesigner><![CDATA[Chris Doughman]]></dadesigner>
+		<daav><![CDATA[Monica Little]]></daav>
+	</node>
+	<node>
+		<id><![CDATA[]]></id>
+		<title><![CDATA[Bus Stats]]></title>
+		<portfolio><![CDATA[Qualitative/Quantitative Business and Skills]]></portfolio>
+		<productmanager><![CDATA[Aaron Arnsparger]]></productmanager>
+		<ptm><![CDATA[]]></ptm>
+		<dadesigner><![CDATA[Chris Doughman]]></dadesigner>
+		<daav><![CDATA[Monica Little]]></daav>
+	</node>
+	<node>
+		<id><![CDATA[]]></id>
+		<title><![CDATA[Decision Sci]]></title>
+		<portfolio><![CDATA[Qualitative/Quantitative Business and Skills]]></portfolio>
+		<productmanager><![CDATA[Aaron Arnsparger]]></productmanager>
+		<ptm><![CDATA[]]></ptm>
+		<dadesigner><![CDATA[Chris Doughman]]></dadesigner>
+		<daav><![CDATA[Monica Little]]></daav>
+	</node>
+	<node>
+		<id><![CDATA[]]></id>
+		<title><![CDATA[Comp Concepts]]></title>
+		<portfolio><![CDATA[Qualitative/Quantitative Business and Skills]]></portfolio>
+		<productmanager><![CDATA[Amanda Lyons]]></productmanager>
+		<ptm><![CDATA[]]></ptm>
+		<dadesigner><![CDATA[Lizz Anderson]]></dadesigner>
+		<daav><![CDATA[Monica Little]]></daav>
+	</node>
+	<node>
+		<id><![CDATA[]]></id>
+		<title><![CDATA[InfoSec]]></title>
+		<portfolio><![CDATA[Qualitative/Quantitative Business and Skills]]></portfolio>
+		<productmanager><![CDATA[Amy Savino]]></productmanager>
+		<ptm><![CDATA[]]></ptm>
+		<dadesigner><![CDATA[Erin Griffin]]></dadesigner>
+		<daav><![CDATA[Monica Little]]></daav>
+	</node>
+	<node>
+		<id><![CDATA[]]></id>
+		<title><![CDATA[IT]]></title>
+		<portfolio><![CDATA[Qualitative/Quantitative Business and Skills]]></portfolio>
+		<productmanager><![CDATA[Amy Savino]]></productmanager>
+		<ptm><![CDATA[]]></ptm>
+		<dadesigner><![CDATA[Erin Griffin]]></dadesigner>
+		<daav><![CDATA[Monica Little]]></daav>
+	</node>
+	<node>
+		<id><![CDATA[]]></id>
+		<title><![CDATA[Networking]]></title>
+		<portfolio><![CDATA[Qualitative/Quantitative Business and Skills]]></portfolio>
+		<productmanager><![CDATA[Amy Savino]]></productmanager>
+		<ptm><![CDATA[]]></ptm>
+		<dadesigner><![CDATA[Erin Griffin]]></dadesigner>
+		<daav><![CDATA[Monica Little]]></daav>
+	</node>
+	<node>
+		<id><![CDATA[]]></id>
+		<title><![CDATA[Life Span Psychology]]></title>
+		<portfolio><![CDATA[Social Sciences and Gale]]></portfolio>
+		<productmanager><![CDATA[Andrew Ginsberg]]></productmanager>
+		<ptm><![CDATA[Starr Burruto]]></ptm>
+		<dadesigner><![CDATA[Marissa Falco]]></dadesigner>
+		<daav><![CDATA[Stephanie Beach]]></daav>
+	</node>
+	<node>
+		<id><![CDATA[]]></id>
+		<title><![CDATA[Sociology]]></title>
+		<portfolio><![CDATA[Social Sciences and Gale]]></portfolio>
+		<productmanager><![CDATA[Ava Fruin]]></productmanager>
+		<ptm><![CDATA[]]></ptm>
+		<dadesigner><![CDATA[Marissa Falco]]></dadesigner>
+		<daav><![CDATA[Stephanie Beach]]></daav>
+	</node>
+	<node>
+		<id><![CDATA[]]></id>
+		<title><![CDATA[Radio/TV/Film]]></title>
+		<portfolio><![CDATA[Social Sciences and Gale]]></portfolio>
+		<productmanager><![CDATA[Carolyn Lewis]]></productmanager>
+		<ptm><![CDATA[]]></ptm>
+		<dadesigner><![CDATA[Marissa Falco]]></dadesigner>
+		<daav><![CDATA[Stephanie Beach]]></daav>
+	</node>
+	<node>
+		<id><![CDATA[]]></id>
+		<title><![CDATA[Speech]]></title>
+		<portfolio><![CDATA[Social Sciences and Gale]]></portfolio>
+		<productmanager><![CDATA[Carolyn Lewis]]></productmanager>
+		<ptm><![CDATA[]]></ptm>
+		<dadesigner><![CDATA[Marissa Falco]]></dadesigner>
+		<daav><![CDATA[Stephanie Beach]]></daav>
+	</node>
+	<node>
+		<id><![CDATA[]]></id>
+		<title><![CDATA[Theatre]]></title>
+		<portfolio><![CDATA[Social Sciences and Gale]]></portfolio>
+		<productmanager><![CDATA[Carolyn Lewis]]></productmanager>
+		<ptm><![CDATA[]]></ptm>
+		<dadesigner><![CDATA[Marissa Falco]]></dadesigner>
+		<daav><![CDATA[Stephanie Beach]]></daav>
+	</node>
+	<node>
+		<id><![CDATA[]]></id>
+		<title><![CDATA[Statistics]]></title>
+		<portfolio><![CDATA[Science, Technology, Math, and Dev Studies]]></portfolio>
+		<productmanager><![CDATA[Catherine Van Der Laan]]></productmanager>
+		<ptm><![CDATA[]]></ptm>
+		<dadesigner><![CDATA[Diana Graham]]></dadesigner>
+		<daav><![CDATA[Andy Kwok]]></daav>
+	</node>
+	<node>
+		<id><![CDATA[]]></id>
+		<title><![CDATA[Accounting]]></title>
+		<portfolio><![CDATA[Qualitative/Quantitative Business and Skills]]></portfolio>
+		<productmanager><![CDATA[Chris Rader]]></productmanager>
+		<ptm><![CDATA[]]></ptm>
+		<dadesigner><![CDATA[Bethany Bourgeois]]></dadesigner>
+		<daav><![CDATA[Monica Little]]></daav>
+	</node>
+	<node>
+		<id><![CDATA[]]></id>
+		<title><![CDATA[CS]]></title>
+		<portfolio><![CDATA[Qualitative/Quantitative Business and Skills]]></portfolio>
+		<productmanager><![CDATA[Chris Shortt]]></productmanager>
+		<ptm><![CDATA[]]></ptm>
+		<dadesigner><![CDATA[Erin Griffin]]></dadesigner>
+		<daav><![CDATA[Monica Little]]></daav>
+	</node>
+	<node>
+		<id><![CDATA[]]></id>
+		<title><![CDATA[MAD]]></title>
+		<portfolio><![CDATA[Qualitative/Quantitative Business and Skills]]></portfolio>
+		<productmanager><![CDATA[Chris Shortt]]></productmanager>
+		<ptm><![CDATA[]]></ptm>
+		<dadesigner><![CDATA[Erin Griffin]]></dadesigner>
+		<daav><![CDATA[Monica Little]]></daav>
+	</node>
+	<node>
+		<id><![CDATA[]]></id>
+		<title><![CDATA[Programming]]></title>
+		<portfolio><![CDATA[Qualitative/Quantitative Business and Skills]]></portfolio>
+		<productmanager><![CDATA[Chris Shortt]]></productmanager>
+		<ptm><![CDATA[]]></ptm>
+		<dadesigner><![CDATA[Erin Griffin]]></dadesigner>
+		<daav><![CDATA[Monica Little]]></daav>
+	</node>
+	<node>
+		<id><![CDATA[]]></id>
+		<title><![CDATA[Web]]></title>
+		<portfolio><![CDATA[Qualitative/Quantitative Business and Skills]]></portfolio>
+		<productmanager><![CDATA[Chris Shortt]]></productmanager>
+		<ptm><![CDATA[]]></ptm>
+		<dadesigner><![CDATA[Erin Griffin]]></dadesigner>
+		<daav><![CDATA[Monica Little]]></daav>
+	</node>
+	<node>
+		<id><![CDATA[]]></id>
+		<title><![CDATA[Education/ECE]]></title>
+		<portfolio><![CDATA[Social Sciences and Gale]]></portfolio>
+		<productmanager><![CDATA[Colin Grover]]></productmanager>
+		<ptm><![CDATA[]]></ptm>
+		<dadesigner><![CDATA[Helen Bruno]]></dadesigner>
+		<daav><![CDATA[Stephanie Beach]]></daav>
+	</node>
+	<node>
+		<id><![CDATA[]]></id>
+		<title><![CDATA[Fitness]]></title>
+		<portfolio><![CDATA[Science, Technology, Math, and Dev Studies]]></portfolio>
+		<productmanager><![CDATA[Courtney Heilman]]></productmanager>
+		<ptm><![CDATA[Kelsey Churchman]]></ptm>
+		<dadesigner><![CDATA[Helen Bruno]]></dadesigner>
+		<daav><![CDATA[Andy Kwok]]></daav>
+	</node>
+	<node>
+		<id><![CDATA[]]></id>
+		<title><![CDATA[Wellness/ Nutrition]]></title>
+		<portfolio><![CDATA[Science, Technology, Math, and Dev Studies]]></portfolio>
+		<productmanager><![CDATA[Courtney Heilman]]></productmanager>
+		<ptm><![CDATA[Kelsey Churchman]]></ptm>
+		<dadesigner><![CDATA[Helen Bruno]]></dadesigner>
+		<daav><![CDATA[Andy Kwok]]></daav>
+	</node>
+	<node>
+		<id><![CDATA[]]></id>
+		<title><![CDATA[Dev Math]]></title>
+		<portfolio><![CDATA[Science, Technology, Math, and Dev Studies]]></portfolio>
+		<productmanager><![CDATA[Spencer Arritt]]></productmanager>
+		<ptm><![CDATA[]]></ptm>
+		<dadesigner><![CDATA[Diana Graham]]></dadesigner>
+		<daav><![CDATA[Andy Kwok]]></daav>
+	</node>
+	<node>
+		<id><![CDATA[]]></id>
+		<title><![CDATA[Calculus]]></title>
+		<portfolio><![CDATA[Science, Technology, Math, and Dev Studies]]></portfolio>
+		<productmanager><![CDATA[Gary Whalen]]></productmanager>
+		<ptm><![CDATA[]]></ptm>
+		<dadesigner><![CDATA[Diana Graham]]></dadesigner>
+		<daav><![CDATA[Andy Kwok]]></daav>
+	</node>
+	<node>
+		<id><![CDATA[]]></id>
+		<title><![CDATA[Pre-Calc]]></title>
+		<portfolio><![CDATA[Science, Technology, Math, and Dev Studies]]></portfolio>
+		<productmanager><![CDATA[Gary Whalen]]></productmanager>
+		<ptm><![CDATA[]]></ptm>
+		<dadesigner><![CDATA[Diana Graham]]></dadesigner>
+		<daav><![CDATA[Andy Kwok]]></daav>
+	</node>
+	<node>
+		<id><![CDATA[]]></id>
+		<title><![CDATA[World Languages]]></title>
+		<portfolio><![CDATA[Humanities and World Languages]]></portfolio>
+		<productmanager><![CDATA[Heather Bradley-Cole]]></productmanager>
+		<ptm><![CDATA[]]></ptm>
+		<dadesigner><![CDATA[Sarah Cole ]]></dadesigner>
+		<daav><![CDATA[Elyssa Healy]]></daav>
+	</node>
+	<node>
+		<id><![CDATA[]]></id>
+		<title><![CDATA[Biz Com]]></title>
+		<portfolio><![CDATA[Qualitative/Quantitative Business and Skills]]></portfolio>
+		<productmanager><![CDATA[Heather Mooney]]></productmanager>
+		<ptm><![CDATA[]]></ptm>
+		<dadesigner><![CDATA[Bethany Bourgeois]]></dadesigner>
+		<daav><![CDATA[Monica Little]]></daav>
+	</node>
+	<node>
+		<id><![CDATA[]]></id>
+		<title><![CDATA[Intro Biz ]]></title>
+		<portfolio><![CDATA[Qualitative/Quantitative Business and Skills]]></portfolio>
+		<productmanager><![CDATA[Heather Mooney]]></productmanager>
+		<ptm><![CDATA[]]></ptm>
+		<dadesigner><![CDATA[Bethany Bourgeois]]></dadesigner>
+		<daav><![CDATA[Monica Little]]></daav>
+	</node>
+	<node>
+		<id><![CDATA[]]></id>
+		<title><![CDATA[Marketing]]></title>
+		<portfolio><![CDATA[Qualitative/Quantitative Business and Skills]]></portfolio>
+		<productmanager><![CDATA[Heather Mooney]]></productmanager>
+		<ptm><![CDATA[]]></ptm>
+		<dadesigner><![CDATA[Bethany Bourgeois]]></dadesigner>
+		<daav><![CDATA[Monica Little]]></daav>
+	</node>
+	<node>
+		<id><![CDATA[]]></id>
+		<title><![CDATA[Upper Level Chemistry]]></title>
+		<portfolio><![CDATA[Science, Technology, Math, and Dev Studies]]></portfolio>
+		<productmanager><![CDATA[Helene Alfaro]]></productmanager>
+		<ptm><![CDATA[]]></ptm>
+		<dadesigner><![CDATA[Marissa Falco]]></dadesigner>
+		<daav><![CDATA[Andy Kwok]]></daav>
+	</node>
+	<node>
+		<id><![CDATA[]]></id>
+		<title><![CDATA[MIS]]></title>
+		<portfolio><![CDATA[Qualitative/Quantitative Business and Skills]]></portfolio>
+		<productmanager><![CDATA[Jaymie Falconi]]></productmanager>
+		<ptm><![CDATA[]]></ptm>
+		<dadesigner><![CDATA[Lizz Anderson]]></dadesigner>
+		<daav><![CDATA[Monica Little]]></daav>
+	</node>
+	<node>
+		<id><![CDATA[]]></id>
+		<title><![CDATA[U.S. Hist ]]></title>
+		<portfolio><![CDATA[Humanities and World Languages]]></portfolio>
+		<productmanager><![CDATA[Joe Potvin]]></productmanager>
+		<ptm><![CDATA[]]></ptm>
+		<dadesigner><![CDATA[Sarah Cole ]]></dadesigner>
+		<daav><![CDATA[Elyssa Healy]]></daav>
+	</node>
+	<node>
+		<id><![CDATA[]]></id>
+		<title><![CDATA[Western Civ]]></title>
+		<portfolio><![CDATA[Humanities and World Languages]]></portfolio>
+		<productmanager><![CDATA[Joe Potvin]]></productmanager>
+		<ptm><![CDATA[]]></ptm>
+		<dadesigner><![CDATA[Sarah Cole ]]></dadesigner>
+		<daav><![CDATA[Elyssa Healy]]></daav>
+	</node>
+	<node>
+		<id><![CDATA[]]></id>
+		<title><![CDATA[World Hist]]></title>
+		<portfolio><![CDATA[Humanities and World Languages]]></portfolio>
+		<productmanager><![CDATA[Joe Potvin]]></productmanager>
+		<ptm><![CDATA[]]></ptm>
+		<dadesigner><![CDATA[Sarah Cole ]]></dadesigner>
+		<daav><![CDATA[Elyssa Healy]]></daav>
+	</node>
+	<node>
+		<id><![CDATA[]]></id>
+		<title><![CDATA[Finance]]></title>
+		<portfolio><![CDATA[Qualitative/Quantitative Business and Skills]]></portfolio>
+		<productmanager><![CDATA[Joe Sabatino]]></productmanager>
+		<ptm><![CDATA[]]></ptm>
+		<dadesigner><![CDATA[Chris Doughman]]></dadesigner>
+		<daav><![CDATA[Monica Little]]></daav>
+	</node>
+	<node>
+		<id><![CDATA[]]></id>
+		<title><![CDATA[Taxation]]></title>
+		<portfolio><![CDATA[Qualitative/Quantitative Business and Skills]]></portfolio>
+		<productmanager><![CDATA[Jonathan Gross]]></productmanager>
+		<ptm><![CDATA[]]></ptm>
+		<dadesigner><![CDATA[Chris Doughman]]></dadesigner>
+		<daav><![CDATA[Monica Little]]></daav>
+	</node>
+	<node>
+		<id><![CDATA[]]></id>
+		<title><![CDATA[Criminal Justice]]></title>
+		<portfolio><![CDATA[Social Sciences and Gale]]></portfolio>
+		<productmanager><![CDATA[Joshua Parrot]]></productmanager>
+		<ptm><![CDATA[]]></ptm>
+		<dadesigner><![CDATA[Helen Bruno]]></dadesigner>
+		<daav><![CDATA[Stephanie Beach]]></daav>
+	</node>
+	<node>
+		<id><![CDATA[]]></id>
+		<title><![CDATA[Counseling]]></title>
+		<portfolio><![CDATA[Social Sciences and Gale]]></portfolio>
+		<productmanager><![CDATA[Julie Martinez]]></productmanager>
+		<ptm><![CDATA[]]></ptm>
+		<dadesigner><![CDATA[Marissa Falco]]></dadesigner>
+		<daav><![CDATA[Stephanie Beach]]></daav>
+	</node>
+	<node>
+		<id><![CDATA[]]></id>
+		<title><![CDATA[Social Work]]></title>
+		<portfolio><![CDATA[Social Sciences and Gale]]></portfolio>
+		<productmanager><![CDATA[Julie Martinez]]></productmanager>
+		<ptm><![CDATA[]]></ptm>
+		<dadesigner><![CDATA[Marissa Falco]]></dadesigner>
+		<daav><![CDATA[Stephanie Beach]]></daav>
+	</node>
+	<node>
+		<id><![CDATA[]]></id>
+		<title><![CDATA[Milady]]></title>
+		<portfolio><![CDATA[Qualitative/Quantitative Business and Skills]]></portfolio>
+		<productmanager><![CDATA[Kara Melillo]]></productmanager>
+		<ptm><![CDATA[]]></ptm>
+		<dadesigner><![CDATA[Jack Pendleton]]></dadesigner>
+		<daav><![CDATA[Monica Little]]></daav>
+	</node>
+	<node>
+		<id><![CDATA[]]></id>
+		<title><![CDATA[Biology]]></title>
+		<portfolio><![CDATA[Science, Technology, Math, and Dev Studies]]></portfolio>
+		<productmanager><![CDATA[Katherine Caudill-Rios ]]></productmanager>
+		<ptm><![CDATA[Kelsey Churchman]]></ptm>
+		<dadesigner><![CDATA[Helen Bruno]]></dadesigner>
+		<daav><![CDATA[Andy Kwok]]></daav>
+	</node>
+	<node>
+		<id><![CDATA[]]></id>
+		<title><![CDATA[Automotive]]></title>
+		<portfolio><![CDATA[Qualitative/Quantitative Business and Skills]]></portfolio>
+		<productmanager><![CDATA[Katie McGuire]]></productmanager>
+		<ptm><![CDATA[]]></ptm>
+		<dadesigner><![CDATA[Angela Sheehan]]></dadesigner>
+		<daav><![CDATA[Monica Little]]></daav>
+	</node>
+	<node>
+		<id><![CDATA[]]></id>
+		<title><![CDATA[Machining]]></title>
+		<portfolio><![CDATA[Qualitative/Quantitative Business and Skills]]></portfolio>
+		<productmanager><![CDATA[Katie McGuire]]></productmanager>
+		<ptm><![CDATA[]]></ptm>
+		<dadesigner><![CDATA[Angela Sheehan]]></dadesigner>
+		<daav><![CDATA[Monica Little]]></daav>
+	</node>
+	<node>
+		<id><![CDATA[]]></id>
+		<title><![CDATA[Process Tech]]></title>
+		<portfolio><![CDATA[Qualitative/Quantitative Business and Skills]]></portfolio>
+		<productmanager><![CDATA[Katie McGuire]]></productmanager>
+		<ptm><![CDATA[]]></ptm>
+		<dadesigner><![CDATA[Angela Sheehan]]></dadesigner>
+		<daav><![CDATA[Monica Little]]></daav>
+	</node>
+	<node>
+		<id><![CDATA[]]></id>
+		<title><![CDATA[Robotics]]></title>
+		<portfolio><![CDATA[Qualitative/Quantitative Business and Skills]]></portfolio>
+		<productmanager><![CDATA[Katie McGuire]]></productmanager>
+		<ptm><![CDATA[]]></ptm>
+		<dadesigner><![CDATA[Angela Sheehan]]></dadesigner>
+		<daav><![CDATA[Monica Little]]></daav>
+	</node>
+	<node>
+		<id><![CDATA[]]></id>
+		<title><![CDATA[Welding]]></title>
+		<portfolio><![CDATA[Qualitative/Quantitative Business and Skills]]></portfolio>
+		<productmanager><![CDATA[Katie McGuire]]></productmanager>
+		<ptm><![CDATA[]]></ptm>
+		<dadesigner><![CDATA[Angela Sheehan]]></dadesigner>
+		<daav><![CDATA[Monica Little]]></daav>
+	</node>
+	<node>
+		<id><![CDATA[]]></id>
+		<title><![CDATA[Anthropology]]></title>
+		<portfolio><![CDATA[Social Sciences and Gale]]></portfolio>
+		<productmanager><![CDATA[Kori Alexander]]></productmanager>
+		<ptm><![CDATA[Laura Ross]]></ptm>
+		<dadesigner><![CDATA[Marissa Falco]]></dadesigner>
+		<daav><![CDATA[Stephanie Beach]]></daav>
+	</node>
+	<node>
+		<id><![CDATA[]]></id>
+		<title><![CDATA[Lit]]></title>
+		<portfolio><![CDATA[Social Sciences and Gale]]></portfolio>
+		<productmanager><![CDATA[Kori Alexander]]></productmanager>
+		<ptm><![CDATA[Laura Ross]]></ptm>
+		<dadesigner><![CDATA[Marissa Falco]]></dadesigner>
+		<daav><![CDATA[Stephanie Beach]]></daav>
+	</node>
+	<node>
+		<id><![CDATA[]]></id>
+		<title><![CDATA[Mass Comm]]></title>
+		<portfolio><![CDATA[Social Sciences and Gale]]></portfolio>
+		<productmanager><![CDATA[Kori Alexander]]></productmanager>
+		<ptm><![CDATA[Laura Ross]]></ptm>
+		<dadesigner><![CDATA[Marissa Falco]]></dadesigner>
+		<daav><![CDATA[Stephanie Beach]]></daav>
+	</node>
+	<node>
+		<id><![CDATA[]]></id>
+		<title><![CDATA[Music]]></title>
+		<portfolio><![CDATA[Humanities and World Languages]]></portfolio>
+		<productmanager><![CDATA[Kori Alexander]]></productmanager>
+		<ptm><![CDATA[Laura Ross]]></ptm>
+		<dadesigner><![CDATA[Marissa Falco]]></dadesigner>
+		<daav><![CDATA[Elyssa Healy]]></daav>
+	</node>
+	<node>
+		<id><![CDATA[]]></id>
+		<title><![CDATA[Philosophy]]></title>
+		<portfolio><![CDATA[Humanities and World Languages]]></portfolio>
+		<productmanager><![CDATA[Kori Alexander]]></productmanager>
+		<ptm><![CDATA[Laura Ross]]></ptm>
+		<dadesigner><![CDATA[Marissa Falco]]></dadesigner>
+		<daav><![CDATA[Elyssa Healy]]></daav>
+	</node>
+	<node>
+		<id><![CDATA[]]></id>
+		<title><![CDATA[Religion]]></title>
+		<portfolio><![CDATA[Humanities and World Languages]]></portfolio>
+		<productmanager><![CDATA[Kori Alexander]]></productmanager>
+		<ptm><![CDATA[Laura Ross]]></ptm>
+		<dadesigner><![CDATA[Marissa Falco]]></dadesigner>
+		<daav><![CDATA[Elyssa Healy]]></daav>
+	</node>
+	<node>
+		<id><![CDATA[]]></id>
+		<title><![CDATA[Basic Health Sciences]]></title>
+		<portfolio><![CDATA[Qualitative/Quantitative Business and Skills]]></portfolio>
+		<productmanager><![CDATA[Laura Stewart]]></productmanager>
+		<ptm><![CDATA[]]></ptm>
+		<dadesigner><![CDATA[Angela Sheehan]]></dadesigner>
+		<daav><![CDATA[Monica Little]]></daav>
+	</node>
+	<node>
+		<id><![CDATA[]]></id>
+		<title><![CDATA[Nursing Assist]]></title>
+		<portfolio><![CDATA[Qualitative/Quantitative Business and Skills]]></portfolio>
+		<productmanager><![CDATA[Laura Stewart]]></productmanager>
+		<ptm><![CDATA[]]></ptm>
+		<dadesigner><![CDATA[Angela Sheehan]]></dadesigner>
+		<daav><![CDATA[Monica Little]]></daav>
+	</node>
+	<node>
+		<id><![CDATA[]]></id>
+		<title><![CDATA[Sports Med]]></title>
+		<portfolio><![CDATA[Qualitative/Quantitative Business and Skills]]></portfolio>
+		<productmanager><![CDATA[Laura Stewart]]></productmanager>
+		<ptm><![CDATA[]]></ptm>
+		<dadesigner><![CDATA[Angela Sheehan]]></dadesigner>
+		<daav><![CDATA[Monica Little]]></daav>
+	</node>
+	<node>
+		<id><![CDATA[]]></id>
+		<title><![CDATA[Environmental Science]]></title>
+		<portfolio><![CDATA[Science, Technology, Math, and Dev Studies]]></portfolio>
+		<productmanager><![CDATA[Lauren Bakker]]></productmanager>
+		<ptm><![CDATA[Kelsey Churchman]]></ptm>
+		<dadesigner><![CDATA[Helen Bruno]]></dadesigner>
+		<daav><![CDATA[Andy Kwok]]></daav>
+	</node>
+	<node>
+		<id><![CDATA[]]></id>
+		<title><![CDATA[Astronomy]]></title>
+		<portfolio><![CDATA[Science, Technology, Math, and Dev Studies]]></portfolio>
+		<productmanager><![CDATA[Lauren Bakker]]></productmanager>
+		<ptm><![CDATA[Kelsey Churchman]]></ptm>
+		<dadesigner><![CDATA[Helen Bruno]]></dadesigner>
+		<daav><![CDATA[Andy Kwok]]></daav>
+	</node>
+	<node>
+		<id><![CDATA[]]></id>
+		<title><![CDATA[Health Admin & Mgmt]]></title>
+		<portfolio><![CDATA[Qualitative/Quantitative Business and Skills]]></portfolio>
+		<productmanager><![CDATA[Lauren Whalen]]></productmanager>
+		<ptm><![CDATA[]]></ptm>
+		<dadesigner><![CDATA[Angela Sheehan]]></dadesigner>
+		<daav><![CDATA[Monica Little]]></daav>
+	</node>
+	<node>
+		<id><![CDATA[]]></id>
+		<title><![CDATA[Health Info Mgmt]]></title>
+		<portfolio><![CDATA[Qualitative/Quantitative Business and Skills]]></portfolio>
+		<productmanager><![CDATA[Lauren Whalen]]></productmanager>
+		<ptm><![CDATA[]]></ptm>
+		<dadesigner><![CDATA[Angela Sheehan]]></dadesigner>
+		<daav><![CDATA[Monica Little]]></daav>
+	</node>
+	<node>
+		<id><![CDATA[]]></id>
+		<title><![CDATA[Med Ins & Coding]]></title>
+		<portfolio><![CDATA[Qualitative/Quantitative Business and Skills]]></portfolio>
+		<productmanager><![CDATA[Lauren Whalen]]></productmanager>
+		<ptm><![CDATA[]]></ptm>
+		<dadesigner><![CDATA[Angela Sheehan]]></dadesigner>
+		<daav><![CDATA[Monica Little]]></daav>
+	</node>
+	<node>
+		<id><![CDATA[]]></id>
+		<title><![CDATA[Med Trans]]></title>
+		<portfolio><![CDATA[Qualitative/Quantitative Business and Skills]]></portfolio>
+		<productmanager><![CDATA[Lauren Whalen]]></productmanager>
+		<ptm><![CDATA[]]></ptm>
+		<dadesigner><![CDATA[Angela Sheehan]]></dadesigner>
+		<daav><![CDATA[Monica Little]]></daav>
+	</node>
+	<node>
+		<id><![CDATA[]]></id>
+		<title><![CDATA[Surg Tech]]></title>
+		<portfolio><![CDATA[Qualitative/Quantitative Business and Skills]]></portfolio>
+		<productmanager><![CDATA[Lauren Whalen]]></productmanager>
+		<ptm><![CDATA[]]></ptm>
+		<dadesigner><![CDATA[Angela Sheehan]]></dadesigner>
+		<daav><![CDATA[Monica Little]]></daav>
+	</node>
+	<node>
+		<id><![CDATA[]]></id>
+		<title><![CDATA[Illus]]></title>
+		<portfolio><![CDATA[Qualitative/Quantitative Business and Skills]]></portfolio>
+		<productmanager><![CDATA[(open)]]></productmanager>
+		<ptm><![CDATA[]]></ptm>
+		<dadesigner><![CDATA[Lizz Anderson]]></dadesigner>
+		<daav><![CDATA[Monica Little]]></daav>
+	</node>
+	<node>
+		<id><![CDATA[]]></id>
+		<title><![CDATA[New Perspectives]]></title>
+		<portfolio><![CDATA[Qualitative/Quantitative Business and Skills]]></portfolio>
+		<productmanager><![CDATA[(open)]]></productmanager>
+		<ptm><![CDATA[]]></ptm>
+		<dadesigner><![CDATA[Lizz Anderson]]></dadesigner>
+		<daav><![CDATA[Monica Little]]></daav>
+	</node>
+	<node>
+		<id><![CDATA[]]></id>
+		<title><![CDATA[Accounting]]></title>
+		<portfolio><![CDATA[Qualitative/Quantitative Business and Skills]]></portfolio>
+		<productmanager><![CDATA[Matt Fillimonov/John Barans]]></productmanager>
+		<ptm><![CDATA[]]></ptm>
+		<dadesigner><![CDATA[Chris Doughman]]></dadesigner>
+		<daav><![CDATA[Monica Little]]></daav>
+	</node>
+	<node>
+		<id><![CDATA[]]></id>
+		<title><![CDATA[General Chemistry]]></title>
+		<portfolio><![CDATA[Science, Technology, Math, and Dev Studies]]></portfolio>
+		<productmanager><![CDATA[Maureen McLaughlin]]></productmanager>
+		<ptm><![CDATA[]]></ptm>
+		<dadesigner><![CDATA[Marissa Falco]]></dadesigner>
+		<daav><![CDATA[Andy Kwok]]></daav>
+	</node>
+	<node>
+		<id><![CDATA[]]></id>
+		<title><![CDATA[HR]]></title>
+		<portfolio><![CDATA[Qualitative/Quantitative Business and Skills]]></portfolio>
+		<productmanager><![CDATA[Michael Giffen]]></productmanager>
+		<ptm><![CDATA[]]></ptm>
+		<dadesigner><![CDATA[Bethany Bourgeois]]></dadesigner>
+		<daav><![CDATA[Monica Little]]></daav>
+	</node>
+	<node>
+		<id><![CDATA[]]></id>
+		<title><![CDATA[Management]]></title>
+		<portfolio><![CDATA[Qualitative/Quantitative Business and Skills]]></portfolio>
+		<productmanager><![CDATA[Michael Giffen]]></productmanager>
+		<ptm><![CDATA[]]></ptm>
+		<dadesigner><![CDATA[Bethany Bourgeois]]></dadesigner>
+		<daav><![CDATA[Monica Little]]></daav>
+	</node>
+	<node>
+		<id><![CDATA[]]></id>
+		<title><![CDATA[Economics]]></title>
+		<portfolio><![CDATA[Qualitative/Quantitative Business and Skills]]></portfolio>
+		<productmanager><![CDATA[Michael Parthenakis/Kate Hunt]]></productmanager>
+		<ptm><![CDATA[]]></ptm>
+		<dadesigner><![CDATA[Bethany Bourgeois]]></dadesigner>
+		<daav><![CDATA[Monica Little]]></daav>
+	</node>
+	<node>
+		<id><![CDATA[]]></id>
+		<title><![CDATA[4LTR Brand Lead]]></title>
+		<portfolio><![CDATA[]]></portfolio>
+		<productmanager><![CDATA[Mike Shenk]]></productmanager>
+		<ptm><![CDATA[]]></ptm>
+		<dadesigner><![CDATA[Bethany Bourgeois]]></dadesigner>
+		<daav><![CDATA[Stephanie Beach]]></daav>
+	</node>
+	<node>
+		<id><![CDATA[]]></id>
+		<title><![CDATA[Accessibility Specialist]]></title>
+		<portfolio><![CDATA[n/a]]></portfolio>
+		<productmanager><![CDATA[n/a]]></productmanager>
+		<ptm><![CDATA[]]></ptm>
+		<dadesigner><![CDATA[Andrei Pasternak]]></dadesigner>
+		<daav><![CDATA[n/a]]></daav>
+	</node>
+	<node>
+		<id><![CDATA[]]></id>
+		<title><![CDATA[Eng Comp]]></title>
+		<portfolio><![CDATA[Social Sciences and Gale]]></portfolio>
+		<productmanager><![CDATA[Nancy Tran]]></productmanager>
+		<ptm><![CDATA[Laura Ross]]></ptm>
+		<dadesigner><![CDATA[Lizz Anderson]]></dadesigner>
+		<daav><![CDATA[Stephanie Beach]]></daav>
+	</node>
+	<node>
+		<id><![CDATA[]]></id>
+		<title><![CDATA[Dev Eng]]></title>
+		<portfolio><![CDATA[Humanities and World Languages]]></portfolio>
+		<productmanager><![CDATA[Nancy Tran]]></productmanager>
+		<ptm><![CDATA[Laura Ross]]></ptm>
+		<dadesigner><![CDATA[Lizz Anderson]]></dadesigner>
+		<daav><![CDATA[Elyssa Healy]]></daav>
+	</node>
+	<node>
+		<id><![CDATA[]]></id>
+		<title><![CDATA[Abnormal Psychology]]></title>
+		<portfolio><![CDATA[Social Sciences and Gale]]></portfolio>
+		<productmanager><![CDATA[Elizabeth Swander]]></productmanager>
+		<ptm><![CDATA[Starr Burruto]]></ptm>
+		<dadesigner><![CDATA[Marissa Falco]]></dadesigner>
+		<daav><![CDATA[Stephanie Beach]]></daav>
+	</node>
+	<node>
+		<id><![CDATA[]]></id>
+		<title><![CDATA[Agriscience]]></title>
+		<portfolio><![CDATA[Qualitative/Quantitative Business and Skills]]></portfolio>
+		<productmanager><![CDATA[Nicole Robinson]]></productmanager>
+		<ptm><![CDATA[]]></ptm>
+		<dadesigner><![CDATA[Erin Griffin]]></dadesigner>
+		<daav><![CDATA[Monica Little]]></daav>
+	</node>
+	<node>
+		<id><![CDATA[]]></id>
+		<title><![CDATA[SWEP]]></title>
+		<portfolio><![CDATA[Qualitative/Quantitative Business and Skills]]></portfolio>
+		<productmanager><![CDATA[Nicole Robinson]]></productmanager>
+		<ptm><![CDATA[]]></ptm>
+		<dadesigner><![CDATA[Erin Griffin]]></dadesigner>
+		<daav><![CDATA[Monica Little]]></daav>
+	</node>
+	<node>
+		<id><![CDATA[]]></id>
+		<title><![CDATA[Physics]]></title>
+		<portfolio><![CDATA[Science, Technology, Math, and Dev Studies]]></portfolio>
+		<productmanager><![CDATA[Nate Thibeault]]></productmanager>
+		<ptm><![CDATA[]]></ptm>
+		<dadesigner><![CDATA[Diana Graham]]></dadesigner>
+		<daav><![CDATA[Andy Kwok]]></daav>
+	</node>
+	<node>
+		<id><![CDATA[]]></id>
+		<title><![CDATA[Political Science ]]></title>
+		<portfolio><![CDATA[Social Sciences and Gale]]></portfolio>
+		<productmanager><![CDATA[Richard Lena]]></productmanager>
+		<ptm><![CDATA[]]></ptm>
+		<dadesigner><![CDATA[Sarah Cole ]]></dadesigner>
+		<daav><![CDATA[Stephanie Beach]]></daav>
+	</node>
+	<node>
+		<id><![CDATA[]]></id>
+		<title><![CDATA[Applied Math]]></title>
+		<portfolio><![CDATA[Science, Technology, Math, and Dev Studies]]></portfolio>
+		<productmanager><![CDATA[Jay Campell]]></productmanager>
+		<ptm><![CDATA[]]></ptm>
+		<dadesigner><![CDATA[Diana Graham]]></dadesigner>
+		<daav><![CDATA[Andy Kwok]]></daav>
+	</node>
+	<node>
+		<id><![CDATA[]]></id>
+		<title><![CDATA[Advanced Math]]></title>
+		<portfolio><![CDATA[Science, Technology, Math, and Dev Studies]]></portfolio>
+		<productmanager><![CDATA[Rita Lombard]]></productmanager>
+		<ptm><![CDATA[]]></ptm>
+		<dadesigner><![CDATA[Diana Graham]]></dadesigner>
+		<daav><![CDATA[Andy Kwok]]></daav>
+	</node>
+	<node>
+		<id><![CDATA[]]></id>
+		<title><![CDATA[Applied Math]]></title>
+		<portfolio><![CDATA[Science, Technology, Math, and Dev Studies]]></portfolio>
+		<productmanager><![CDATA[Rita Lombard]]></productmanager>
+		<ptm><![CDATA[]]></ptm>
+		<dadesigner><![CDATA[Diana Graham]]></dadesigner>
+		<daav><![CDATA[Andy Kwok]]></daav>
+	</node>
+	<node>
+		<id><![CDATA[]]></id>
+		<title><![CDATA[Math]]></title>
+		<portfolio><![CDATA[Science, Technology, Math, and Dev Studies]]></portfolio>
+		<productmanager><![CDATA[Rita Lombard]]></productmanager>
+		<ptm><![CDATA[]]></ptm>
+		<dadesigner><![CDATA[Diana Graham]]></dadesigner>
+		<daav><![CDATA[Andy Kwok]]></daav>
+	</node>
+	<node>
+		<id><![CDATA[]]></id>
+		<title><![CDATA[Other Math]]></title>
+		<portfolio><![CDATA[Science, Technology, Math, and Dev Studies]]></portfolio>
+		<productmanager><![CDATA[Andy Trus]]></productmanager>
+		<ptm><![CDATA[]]></ptm>
+		<dadesigner><![CDATA[Diana Graham]]></dadesigner>
+		<daav><![CDATA[Andy Kwok]]></daav>
+	</node>
+	<node>
+		<id><![CDATA[]]></id>
+		<title><![CDATA[College Success]]></title>
+		<portfolio><![CDATA[Humanities and World Languages]]></portfolio>
+		<productmanager><![CDATA[Sarah Seymour]]></productmanager>
+		<ptm><![CDATA[]]></ptm>
+		<dadesigner><![CDATA[Diana Graham]]></dadesigner>
+		<daav><![CDATA[Elyssa Healy]]></daav>
+	</node>
+	<node>
+		<id><![CDATA[]]></id>
+		<title><![CDATA[Intro/Soc Psychology]]></title>
+		<portfolio><![CDATA[Social Sciences and Gale]]></portfolio>
+		<productmanager><![CDATA[Shelby Stewart]]></productmanager>
+		<ptm><![CDATA[Starr Burruto]]></ptm>
+		<dadesigner><![CDATA[Marissa Falco]]></dadesigner>
+		<daav><![CDATA[Stephanie Beach]]></daav>
+	</node>
+	<node>
+		<id><![CDATA[]]></id>
+		<title><![CDATA[Dental Assist]]></title>
+		<portfolio><![CDATA[Qualitative/Quantitative Business and Skills]]></portfolio>
+		<productmanager><![CDATA[Stephen Smith]]></productmanager>
+		<ptm><![CDATA[]]></ptm>
+		<dadesigner><![CDATA[Angela Sheehan]]></dadesigner>
+		<daav><![CDATA[Monica Little]]></daav>
+	</node>
+	<node>
+		<id><![CDATA[]]></id>
+		<title><![CDATA[Medical Assist]]></title>
+		<portfolio><![CDATA[Qualitative/Quantitative Business and Skills]]></portfolio>
+		<productmanager><![CDATA[Stephen Smith]]></productmanager>
+		<ptm><![CDATA[]]></ptm>
+		<dadesigner><![CDATA[Angela Sheehan]]></dadesigner>
+		<daav><![CDATA[Monica Little]]></daav>
+	</node>
+	<node>
+		<id><![CDATA[]]></id>
+		<title><![CDATA[Pharmacy Tech]]></title>
+		<portfolio><![CDATA[Qualitative/Quantitative Business and Skills]]></portfolio>
+		<productmanager><![CDATA[Stephen Smith]]></productmanager>
+		<ptm><![CDATA[]]></ptm>
+		<dadesigner><![CDATA[Angela Sheehan]]></dadesigner>
+		<daav><![CDATA[Monica Little]]></daav>
+	</node>
+	<node>
+		<id><![CDATA[]]></id>
+		<title><![CDATA[Engineering]]></title>
+		<portfolio><![CDATA[Science, Technology, Math, and Dev Studies]]></portfolio>
+		<productmanager><![CDATA[Tim Anderson]]></productmanager>
+		<ptm><![CDATA[]]></ptm>
+		<dadesigner><![CDATA[Diana Graham]]></dadesigner>
+		<daav><![CDATA[Andy Kwok]]></daav>
+	</node>
+	<node>
+		<id><![CDATA[]]></id>
+		<title><![CDATA[Construction]]></title>
+		<portfolio><![CDATA[Qualitative/Quantitative Business and Skills]]></portfolio>
+		<productmanager><![CDATA[Vanessa Myers]]></productmanager>
+		<ptm><![CDATA[]]></ptm>
+		<dadesigner><![CDATA[Erin Griffin]]></dadesigner>
+		<daav><![CDATA[Monica Little]]></daav>
+	</node>
+	<node>
+		<id><![CDATA[]]></id>
+		<title><![CDATA[DeWalt]]></title>
+		<portfolio><![CDATA[Qualitative/Quantitative Business and Skills]]></portfolio>
+		<productmanager><![CDATA[Vanessa Myers]]></productmanager>
+		<ptm><![CDATA[]]></ptm>
+		<dadesigner><![CDATA[Erin Griffin]]></dadesigner>
+		<daav><![CDATA[Monica Little]]></daav>
+	</node>
+	<node>
+		<id><![CDATA[]]></id>
+		<title><![CDATA[Electrical]]></title>
+		<portfolio><![CDATA[Qualitative/Quantitative Business and Skills]]></portfolio>
+		<productmanager><![CDATA[Vanessa Myers]]></productmanager>
+		<ptm><![CDATA[]]></ptm>
+		<dadesigner><![CDATA[Erin Griffin]]></dadesigner>
+		<daav><![CDATA[Monica Little]]></daav>
+	</node>
+	<node>
+		<id><![CDATA[]]></id>
+		<title><![CDATA[HVAC]]></title>
+		<portfolio><![CDATA[Qualitative/Quantitative Business and Skills]]></portfolio>
+		<productmanager><![CDATA[Vanessa Myers]]></productmanager>
+		<ptm><![CDATA[]]></ptm>
+		<dadesigner><![CDATA[Erin Griffin]]></dadesigner>
+		<daav><![CDATA[Monica Little]]></daav>
+	</node>
+	<node>
+		<id><![CDATA[]]></id>
+		<title><![CDATA[Plumbing]]></title>
+		<portfolio><![CDATA[Qualitative/Quantitative Business and Skills]]></portfolio>
+		<productmanager><![CDATA[Vanessa Myers]]></productmanager>
+		<ptm><![CDATA[]]></ptm>
+		<dadesigner><![CDATA[Erin Griffin]]></dadesigner>
+		<daav><![CDATA[Monica Little]]></daav>
+	</node>
+	<node>
+		<id><![CDATA[]]></id>
+		<title><![CDATA[Refrig]]></title>
+		<portfolio><![CDATA[Qualitative/Quantitative Business and Skills]]></portfolio>
+		<productmanager><![CDATA[Vanessa Myers]]></productmanager>
+		<ptm><![CDATA[]]></ptm>
+		<dadesigner><![CDATA[Erin Griffin]]></dadesigner>
+		<daav><![CDATA[Monica Little]]></daav>
+	</node>
+	<node>
+		<id><![CDATA[]]></id>
+		<title><![CDATA[Art]]></title>
+		<portfolio><![CDATA[Humanities and World Languages]]></portfolio>
+		<productmanager><![CDATA[Vanessa S. Coloura]]></productmanager>
+		<ptm><![CDATA[]]></ptm>
+		<dadesigner><![CDATA[Sarah Cole ]]></dadesigner>
+		<daav><![CDATA[Elyssa Healy]]></daav>
+	</node>
+	<node>
+		<id><![CDATA[]]></id>
+		<title><![CDATA[Business Law]]></title>
+		<portfolio><![CDATA[Qualitative/Quantitative Business and Skills]]></portfolio>
+		<productmanager><![CDATA[Vicky True]]></productmanager>
+		<ptm><![CDATA[]]></ptm>
+		<dadesigner><![CDATA[Chris Doughman]]></dadesigner>
+		<daav><![CDATA[Monica Little]]></daav>
+	</node>
+</data>

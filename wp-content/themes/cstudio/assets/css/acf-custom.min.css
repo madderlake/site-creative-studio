@@ -1,0 +1,18 @@
+.col-group > div.acf-input > .acf-fields {
+  display: -webkit-box !important;
+  display: -ms-flexbox !important;
+  display: flex !important;
+}
+.col-group > div.acf-input > .acf-fields .dyn-col {
+  -webkit-box-flex: 1 !important;
+  -ms-flex: auto !important;
+  flex: auto !important;
+}
+/*# sourceMappingURL=acf-custom.min.css.map */
+.dyn-col div.acf-input > div > div.values {
+  display: flex !important;
+}
+
+.dyn-col .acf-flexible-content .layout {
+  margin: 20px 0 5px;
+}

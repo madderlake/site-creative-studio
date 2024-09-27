@@ -1,0 +1,104 @@
+<?xml version="1.0"?>
+<disciplines>
+<discipline Title="Blueprint" Portfolio="Qualitative/Quantitative Business and Skills" Product_Manager="Abby Schultheis" DA_Designer="Erin Griffin" DA_AV="Monica Little"></discipline>
+<discipline Title="Career Success" Portfolio="Qualitative/Quantitative Business and Skills" Product_Manager="Abby Schultheis" DA_Designer="Erin Griffin" DA_AV="Monica Little"></discipline>
+<discipline Title="Drafting-Engineering" Portfolio="Qualitative/Quantitative Business and Skills" Product_Manager="Abby Schultheis" DA_Designer="Erin Griffin" DA_AV="Monica Little"></discipline>
+<discipline Title="Harvest Lists" Portfolio="Qualitative/Quantitative Business and Skills" Product_Manager="Abby Schultheis" DA_Designer="Erin Griffin" DA_AV="Monica Little"></discipline>
+<discipline Title="Paralegal" Portfolio="Qualitative/Quantitative Business and Skills" Product_Manager="Abby Schultheis" DA_Designer="Erin Griffin" DA_AV="Monica Little"></discipline>
+<discipline Title="Bus Math" Portfolio="Qualitative/Quantitative Business and Skills" Product_Manager="Aaron Arnsparger" DA_Designer="Chris Doughman" DA_AV="Monica Little"></discipline>
+<discipline Title="Bus Stats" Portfolio="Qualitative/Quantitative Business and Skills" Product_Manager="Aaron Arnsparger" DA_Designer="Chris Doughman" DA_AV="Monica Little"></discipline>
+<discipline Title="Decision Sci" Portfolio="Qualitative/Quantitative Business and Skills" Product_Manager="Aaron Arnsparger" DA_Designer="Chris Doughman" DA_AV="Monica Little"></discipline>
+<discipline Title="Comp Concepts" Portfolio="Qualitative/Quantitative Business and Skills" Product_Manager="Amanda Lyons" DA_Designer="Lizz Anderson" DA_AV="Monica Little"></discipline>
+<discipline Title="InfoSec" Portfolio="Qualitative/Quantitative Business and Skills" Product_Manager="Amy Savino" DA_Designer="Erin Griffin" DA_AV="Monica Little"></discipline>
+<discipline Title="IT" Portfolio="Qualitative/Quantitative Business and Skills" Product_Manager="Amy Savino" DA_Designer="Erin Griffin" DA_AV="Monica Little"></discipline>
+<discipline Title="Networking" Portfolio="Qualitative/Quantitative Business and Skills" Product_Manager="Amy Savino" DA_Designer="Erin Griffin" DA_AV="Monica Little"></discipline>
+<discipline Title="Life Span Psychology" Portfolio="Social Sciences and Gale" Product_Manager="Andrew Ginsberg" PTM="Starr Burruto" DA_Designer="Marissa Falco" DA_AV="Stephanie Beach"></discipline>
+<discipline Title="Sociology" Portfolio="Social Sciences and Gale" Product_Manager="Ava Fruin" DA_Designer="Marissa Falco" DA_AV="Stephanie Beach"></discipline>
+<discipline Title="Radio/TV/Film" Portfolio="Social Sciences and Gale" Product_Manager="Carolyn Lewis" DA_Designer="Marissa Falco" DA_AV="Stephanie Beach"></discipline>
+<discipline Title="Speech" Portfolio="Social Sciences and Gale" Product_Manager="Carolyn Lewis" DA_Designer="Marissa Falco" DA_AV="Stephanie Beach"></discipline>
+<discipline Title="Theatre" Portfolio="Social Sciences and Gale" Product_Manager="Carolyn Lewis" DA_Designer="Marissa Falco" DA_AV="Stephanie Beach"></discipline>
+<discipline Title="Statistics" Portfolio="Science, Technology, Math, and Dev Studies" Product_Manager="Catherine Van Der Laan" DA_Designer="Diana Graham" DA_AV="Andy Kwok"></discipline>
+<discipline Title="Accounting" Portfolio="Qualitative/Quantitative Business and Skills" Product_Manager="Chris Rader" DA_Designer="Bethany Bourgeois" DA_AV="Monica Little"></discipline>
+<discipline Title="CS" Portfolio="Qualitative/Quantitative Business and Skills" Product_Manager="Chris Shortt" DA_Designer="Erin Griffin" DA_AV="Monica Little"></discipline>
+<discipline Title="MAD" Portfolio="Qualitative/Quantitative Business and Skills" Product_Manager="Chris Shortt" DA_Designer="Erin Griffin" DA_AV="Monica Little"></discipline>
+<discipline Title="Programming" Portfolio="Qualitative/Quantitative Business and Skills" Product_Manager="Chris Shortt" DA_Designer="Erin Griffin" DA_AV="Monica Little"></discipline>
+<discipline Title="Web" Portfolio="Qualitative/Quantitative Business and Skills" Product_Manager="Chris Shortt" DA_Designer="Erin Griffin" DA_AV="Monica Little"></discipline>
+<discipline Title="Education/ECE" Portfolio="Social Sciences and Gale" Product_Manager="Colin Grover" DA_Designer="Helen Bruno" DA_AV="Stephanie Beach"></discipline>
+<discipline Title="Fitness" Portfolio="Science, Technology, Math, and Dev Studies" Product_Manager="Courtney Heilman" PTM="Kelsey Churchman" DA_Designer="Helen Bruno" DA_AV="Andy Kwok"></discipline>
+<discipline Title="Wellness/ Nutrition" Portfolio="Science, Technology, Math, and Dev Studies" Product_Manager="Courtney Heilman" PTM="Kelsey Churchman" DA_Designer="Helen Bruno" DA_AV="Andy Kwok"></discipline>
+<discipline Title="Dev Math" Portfolio="Science, Technology, Math, and Dev Studies" Product_Manager="Spencer Arritt" DA_Designer="Diana Graham" DA_AV="Andy Kwok"></discipline>
+<discipline Title="Calculus" Portfolio="Science, Technology, Math, and Dev Studies" Product_Manager="Gary Whalen" DA_Designer="Diana Graham" DA_AV="Andy Kwok"></discipline>
+<discipline Title="Pre-Calc" Portfolio="Science, Technology, Math, and Dev Studies" Product_Manager="Gary Whalen" DA_Designer="Diana Graham" DA_AV="Andy Kwok"></discipline>
+<discipline Title="World Languages" Portfolio="Humanities and World Languages" Product_Manager="Heather Bradley-Cole" DA_Designer="Sarah Cole " DA_AV="Elyssa Healy"></discipline>
+<discipline Title="Biz Com" Portfolio="Qualitative/Quantitative Business and Skills" Product_Manager="Heather Mooney" DA_Designer="Bethany Bourgeois" DA_AV="Monica Little"></discipline>
+<discipline Title="Intro Biz " Portfolio="Qualitative/Quantitative Business and Skills" Product_Manager="Heather Mooney" DA_Designer="Bethany Bourgeois" DA_AV="Monica Little"></discipline>
+<discipline Title="Marketing" Portfolio="Qualitative/Quantitative Business and Skills" Product_Manager="Heather Mooney" DA_Designer="Bethany Bourgeois" DA_AV="Monica Little"></discipline>
+<discipline Title="Upper Level Chemistry" Portfolio="Science, Technology, Math, and Dev Studies" Product_Manager="Helene Alfaro" DA_Designer="Marissa Falco" DA_AV="Andy Kwok"></discipline>
+<discipline Title="MIS" Portfolio="Qualitative/Quantitative Business and Skills" Product_Manager="Jaymie Falconi" DA_Designer="Lizz Anderson" DA_AV="Monica Little"></discipline>
+<discipline Title="U.S. Hist " Portfolio="Humanities and World Languages" Product_Manager="Joe Potvin" DA_Designer="Sarah Cole " DA_AV="Elyssa Healy"></discipline>
+<discipline Title="Western Civ" Portfolio="Humanities and World Languages" Product_Manager="Joe Potvin" DA_Designer="Sarah Cole " DA_AV="Elyssa Healy"></discipline>
+<discipline Title="World Hist" Portfolio="Humanities and World Languages" Product_Manager="Joe Potvin" DA_Designer="Sarah Cole " DA_AV="Elyssa Healy"></discipline>
+<discipline Title="Finance" Portfolio="Qualitative/Quantitative Business and Skills" Product_Manager="Joe Sabatino" DA_Designer="Chris Doughman" DA_AV="Monica Little"></discipline>
+<discipline Title="Taxation" Portfolio="Qualitative/Quantitative Business and Skills" Product_Manager="Jonathan Gross" DA_Designer="Chris Doughman" DA_AV="Monica Little"></discipline>
+<discipline Title="Criminal Justice" Portfolio="Social Sciences and Gale" Product_Manager="Joshua Parrot" DA_Designer="Helen Bruno" DA_AV="Stephanie Beach"></discipline>
+<discipline Title="Counseling" Portfolio="Social Sciences and Gale" Product_Manager="Julie Martinez" DA_Designer="Marissa Falco" DA_AV="Stephanie Beach"></discipline>
+<discipline Title="Social Work" Portfolio="Social Sciences and Gale" Product_Manager="Julie Martinez" DA_Designer="Marissa Falco" DA_AV="Stephanie Beach"></discipline>
+<discipline Title="Milady" Portfolio="Qualitative/Quantitative Business and Skills" Product_Manager="Kara Melillo" DA_Designer="Jack Pendleton" DA_AV="Monica Little"></discipline>
+<discipline Title="Biology" Portfolio="Science, Technology, Math, and Dev Studies" Product_Manager="Katherine Caudill-Rios " PTM="Kelsey Churchman" DA_Designer="Helen Bruno" DA_AV="Andy Kwok"></discipline>
+<discipline Title="Automotive" Portfolio="Qualitative/Quantitative Business and Skills" Product_Manager="Katie McGuire" DA_Designer="Angela Sheehan" DA_AV="Monica Little"></discipline>
+<discipline Title="Machining" Portfolio="Qualitative/Quantitative Business and Skills" Product_Manager="Katie McGuire" DA_Designer="Angela Sheehan" DA_AV="Monica Little"></discipline>
+<discipline Title="Process Tech" Portfolio="Qualitative/Quantitative Business and Skills" Product_Manager="Katie McGuire" DA_Designer="Angela Sheehan" DA_AV="Monica Little"></discipline>
+<discipline Title="Robotics" Portfolio="Qualitative/Quantitative Business and Skills" Product_Manager="Katie McGuire" DA_Designer="Angela Sheehan" DA_AV="Monica Little"></discipline>
+<discipline Title="Welding" Portfolio="Qualitative/Quantitative Business and Skills" Product_Manager="Katie McGuire" DA_Designer="Angela Sheehan" DA_AV="Monica Little"></discipline>
+<discipline Title="Anthropology" Portfolio="Social Sciences and Gale" Product_Manager="Kori Alexander" PTM="Laura Ross" DA_Designer="Marissa Falco" DA_AV="Stephanie Beach"></discipline>
+<discipline Title="Lit" Portfolio="Social Sciences and Gale" Product_Manager="Kori Alexander" PTM="Laura Ross" DA_Designer="Marissa Falco" DA_AV="Stephanie Beach"></discipline>
+<discipline Title="Mass Comm" Portfolio="Social Sciences and Gale" Product_Manager="Kori Alexander" PTM="Laura Ross" DA_Designer="Marissa Falco" DA_AV="Stephanie Beach"></discipline>
+<discipline Title="Music" Portfolio="Humanities and World Languages" Product_Manager="Kori Alexander" PTM="Laura Ross" DA_Designer="Marissa Falco" DA_AV="Elyssa Healy"></discipline>
+<discipline Title="Philosophy" Portfolio="Humanities and World Languages" Product_Manager="Kori Alexander" PTM="Laura Ross" DA_Designer="Marissa Falco" DA_AV="Elyssa Healy"></discipline>
+<discipline Title="Religion" Portfolio="Humanities and World Languages" Product_Manager="Kori Alexander" PTM="Laura Ross" DA_Designer="Marissa Falco" DA_AV="Elyssa Healy"></discipline>
+<discipline Title="Basic Health Sciences" Portfolio="Qualitative/Quantitative Business and Skills" Product_Manager="Laura Stewart" DA_Designer="Angela Sheehan" DA_AV="Monica Little"></discipline>
+<discipline Title="Nursing Assist" Portfolio="Qualitative/Quantitative Business and Skills" Product_Manager="Laura Stewart" DA_Designer="Angela Sheehan" DA_AV="Monica Little"></discipline>
+<discipline Title="Sports Med" Portfolio="Qualitative/Quantitative Business and Skills" Product_Manager="Laura Stewart" DA_Designer="Angela Sheehan" DA_AV="Monica Little"></discipline>
+<discipline Title="Environmental Science" Portfolio="Science, Technology, Math, and Dev Studies" Product_Manager="Lauren Bakker" PTM="Kelsey Churchman" DA_Designer="Helen Bruno" DA_AV="Andy Kwok"></discipline>
+<discipline Title="Astronomy" Portfolio="Science, Technology, Math, and Dev Studies" Product_Manager="Lauren Bakker" PTM="Kelsey Churchman" DA_Designer="Helen Bruno" DA_AV="Andy Kwok"></discipline>
+<discipline Title="Health Admin &amp; Mgmt" Portfolio="Qualitative/Quantitative Business and Skills" Product_Manager="Lauren Whalen" DA_Designer="Angela Sheehan" DA_AV="Monica Little"></discipline>
+<discipline Title="Health Info Mgmt" Portfolio="Qualitative/Quantitative Business and Skills" Product_Manager="Lauren Whalen" DA_Designer="Angela Sheehan" DA_AV="Monica Little"></discipline>
+<discipline Title="Med Ins &amp; Coding" Portfolio="Qualitative/Quantitative Business and Skills" Product_Manager="Lauren Whalen" DA_Designer="Angela Sheehan" DA_AV="Monica Little"></discipline>
+<discipline Title="Med Trans" Portfolio="Qualitative/Quantitative Business and Skills" Product_Manager="Lauren Whalen" DA_Designer="Angela Sheehan" DA_AV="Monica Little"></discipline>
+<discipline Title="Surg Tech" Portfolio="Qualitative/Quantitative Business and Skills" Product_Manager="Lauren Whalen" DA_Designer="Angela Sheehan" DA_AV="Monica Little"></discipline>
+<discipline Title="Illus" Portfolio="Qualitative/Quantitative Business and Skills" Product_Manager="(open)" DA_Designer="Lizz Anderson" DA_AV="Monica Little"></discipline>
+<discipline Title="New Perspectives" Portfolio="Qualitative/Quantitative Business and Skills" Product_Manager="(open)" DA_Designer="Lizz Anderson" DA_AV="Monica Little"></discipline>
+<discipline Title="Accounting" Portfolio="Qualitative/Quantitative Business and Skills" Product_Manager="Matt Fillimonov/John Barans" DA_Designer="Chris Doughman" DA_AV="Monica Little"></discipline>
+<discipline Title="General Chemistry" Portfolio="Science, Technology, Math, and Dev Studies" Product_Manager="Maureen McLaughlin" DA_Designer="Marissa Falco" DA_AV="Andy Kwok"></discipline>
+<discipline Title="HR" Portfolio="Qualitative/Quantitative Business and Skills" Product_Manager="Michael Giffen" DA_Designer="Bethany Bourgeois" DA_AV="Monica Little"></discipline>
+<discipline Title="Management" Portfolio="Qualitative/Quantitative Business and Skills" Product_Manager="Michael Giffen" DA_Designer="Bethany Bourgeois" DA_AV="Monica Little"></discipline>
+<discipline Title="Economics" Portfolio="Qualitative/Quantitative Business and Skills" Product_Manager="Michael Parthenakis/Kate Hunt" DA_Designer="Bethany Bourgeois" DA_AV="Monica Little"></discipline>
+<discipline Title="4LTR Brand Lead" Product_Manager="Mike Shenk" DA_Designer="Bethany Bourgeois" DA_AV="Stephanie Beach"></discipline>
+<discipline Title="Accessibility Specialist" Portfolio="n/a" Product_Manager="n/a" DA_Designer="Andrei Pasternak" DA_AV="n/a"></discipline>
+<discipline Title="Eng Comp" Portfolio="Social Sciences and Gale" Product_Manager="Nancy Tran" PTM="Laura Ross" DA_Designer="Lizz Anderson" DA_AV="Stephanie Beach"></discipline>
+<discipline Title="Dev Eng" Portfolio="Humanities and World Languages" Product_Manager="Nancy Tran" PTM="Laura Ross" DA_Designer="Lizz Anderson" DA_AV="Elyssa Healy"></discipline>
+<discipline Title="Abnormal Psychology" Portfolio="Social Sciences and Gale" Product_Manager="Elizabeth Swander" PTM="Starr Burruto" DA_Designer="Marissa Falco" DA_AV="Stephanie Beach"></discipline>
+<discipline Title="Agriscience" Portfolio="Qualitative/Quantitative Business and Skills" Product_Manager="Nicole Robinson" DA_Designer="Erin Griffin" DA_AV="Monica Little"></discipline>
+<discipline Title="SWEP" Portfolio="Qualitative/Quantitative Business and Skills" Product_Manager="Nicole Robinson" DA_Designer="Erin Griffin" DA_AV="Monica Little"></discipline>
+<discipline Title="Physics" Portfolio="Science, Technology, Math, and Dev Studies" Product_Manager="Nate Thibeault" DA_Designer="Diana Graham" DA_AV="Andy Kwok"></discipline>
+<discipline Title="Political Science " Portfolio="Social Sciences and Gale" Product_Manager="Richard Lena" DA_Designer="Sarah Cole " DA_AV="Stephanie Beach"></discipline>
+<discipline Title="Applied Math" Portfolio="Science, Technology, Math, and Dev Studies" Product_Manager="Jay Campell" DA_Designer="Diana Graham" DA_AV="Andy Kwok"></discipline>
+<discipline Title="Advanced Math" Portfolio="Science, Technology, Math, and Dev Studies" Product_Manager="Rita Lombard" DA_Designer="Diana Graham" DA_AV="Andy Kwok"></discipline>
+<discipline Title="Applied Math" Portfolio="Science, Technology, Math, and Dev Studies" Product_Manager="Rita Lombard" DA_Designer="Diana Graham" DA_AV="Andy Kwok"></discipline>
+<discipline Title="Math" Portfolio="Science, Technology, Math, and Dev Studies" Product_Manager="Rita Lombard" DA_Designer="Diana Graham" DA_AV="Andy Kwok"></discipline>
+<discipline Title="Other Math" Portfolio="Science, Technology, Math, and Dev Studies" Product_Manager="Andy Trus" DA_Designer="Diana Graham" DA_AV="Andy Kwok"></discipline>
+<discipline Title="College Success" Portfolio="Humanities and World Languages" Product_Manager="Sarah Seymour" DA_Designer="Diana Graham" DA_AV="Elyssa Healy"></discipline>
+<discipline Title="Intro/Soc Psychology" Portfolio="Social Sciences and Gale" Product_Manager="Shelby Stewart" PTM="Starr Burruto" DA_Designer="Marissa Falco" DA_AV="Stephanie Beach"></discipline>
+<discipline Title="Dental Assist" Portfolio="Qualitative/Quantitative Business and Skills" Product_Manager="Stephen Smith" DA_Designer="Angela Sheehan" DA_AV="Monica Little"></discipline>
+<discipline Title="Medical Assist" Portfolio="Qualitative/Quantitative Business and Skills" Product_Manager="Stephen Smith" DA_Designer="Angela Sheehan" DA_AV="Monica Little"></discipline>
+<discipline Title="Pharmacy Tech" Portfolio="Qualitative/Quantitative Business and Skills" Product_Manager="Stephen Smith" DA_Designer="Angela Sheehan" DA_AV="Monica Little"></discipline>
+<discipline Title="Engineering" Portfolio="Science, Technology, Math, and Dev Studies" Product_Manager="Tim Anderson" DA_Designer="Diana Graham" DA_AV="Andy Kwok"></discipline>
+<discipline Title="Construction" Portfolio="Qualitative/Quantitative Business and Skills" Product_Manager="Vanessa Myers" DA_Designer="Erin Griffin" DA_AV="Monica Little"></discipline>
+<discipline Title="DeWalt" Portfolio="Qualitative/Quantitative Business and Skills" Product_Manager="Vanessa Myers" DA_Designer="Erin Griffin" DA_AV="Monica Little"></discipline>
+<discipline Title="Electrical" Portfolio="Qualitative/Quantitative Business and Skills" Product_Manager="Vanessa Myers" DA_Designer="Erin Griffin" DA_AV="Monica Little"></discipline>
+<discipline Title="HVAC" Portfolio="Qualitative/Quantitative Business and Skills" Product_Manager="Vanessa Myers" DA_Designer="Erin Griffin" DA_AV="Monica Little"></discipline>
+<discipline Title="Plumbing" Portfolio="Qualitative/Quantitative Business and Skills" Product_Manager="Vanessa Myers" DA_Designer="Erin Griffin" DA_AV="Monica Little"></discipline>
+<discipline Title="Refrig" Portfolio="Qualitative/Quantitative Business and Skills" Product_Manager="Vanessa Myers" DA_Designer="Erin Griffin" DA_AV="Monica Little"></discipline>
+<discipline Title="Art" Portfolio="Humanities and World Languages" Product_Manager="Vanessa S. Coloura" DA_Designer="Sarah Cole " DA_AV="Elyssa Healy"></discipline>
+<discipline Title="Business Law" Portfolio="Qualitative/Quantitative Business and Skills" Product_Manager="Vicky True" DA_Designer="Chris Doughman" DA_AV="Monica Little"></discipline>
+</disciplines>

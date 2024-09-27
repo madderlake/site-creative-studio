@@ -1,0 +1,191 @@
+calc_data = [
+{
+    "Code": 113,
+    "WPID": 31,
+    "Type": "Character Animations",
+    "Complexity": "Simple",
+    "Unit": "Minute",
+    "Offshore": 144,
+    "NAmerica": 532
+  },
+  {
+    "Code": 113,
+    "WPID": 31,
+    "Type": "Character Animations",
+    "Complexity": "Moderate",
+    "Unit": "Minute",
+    "Offshore": 186,
+    "NAmerica": 866
+  },
+  {
+    "Code": 113,
+    "WPID": 31,
+    "Type": "Character Animations",
+    "Complexity": "Complex",
+    "Unit": "Minute",
+    "Offshore": 251,
+    "NAmerica": 1134
+  },
+  {
+    "Code": 113,
+    "WPID": 33,
+    "Type": "Motion Graphics",
+    "Complexity": "Simple",
+    "Unit": "Minute",
+    "Offshore": 105,
+    "NAmerica": 480
+  },
+  {
+    "Code": 113,
+    "WPID": 33,
+    "Type": "Motion Graphics",
+    "Complexity": "Moderate",
+    "Unit": "Minute",
+    "Offshore": 135,
+    "NAmerica": 642
+  },
+  {
+    "Code": 113,
+    "WPID": 33,
+    "Type": "Motion Graphics",
+    "Complexity": "Complex",
+    "Unit": "Minute",
+    "Offshore": 215,
+    "NAmerica": 802
+  },
+  {
+    "Code": 113,
+    "WPID": 37,
+    "Type": "Animated Illustrations",
+    "Complexity": "Simple",
+    "Unit": "Minute",
+    "Offshore": 130,
+    "NAmerica": 453
+  },
+  {
+    "Code": 113,
+    "WPID": 37,
+    "Type": "Animated Illustrations",
+    "Complexity": "Moderate",
+    "Unit": "Minute",
+    "Offshore": 174,
+    "NAmerica": 543
+  },
+  {
+    "Code": 113,
+    "WPID": 37,
+    "Type": "Animated Illustrations",
+    "Complexity": "Complex",
+    "Unit": "Minute",
+    "Offshore": 223,
+    "NAmerica": 780
+  },
+  {
+    "Code": 113,
+    "WPID": 39,
+    "Type": "Whiteboard Animations",
+    "Complexity": "Simple",
+    "Unit": "Minute",
+    "Offshore": 120,
+    "NAmerica": 256
+  },
+  {
+    "Code": 113,
+    "WPID": 39,
+    "Type": "Whiteboard Animations",
+    "Complexity": "Moderate",
+    "Unit": "Minute",
+    "Offshore": 161,
+    "NAmerica": 300
+  },
+  {
+    "Code": 113,
+    "WPID": 39,
+    "Type": "Whiteboard Animations",
+    "Complexity": "Complex",
+    "Unit": "Minute",
+    "Offshore": 205,
+    "NAmerica": 393
+  },
+  {
+    "Code": 113,
+    "WPID": 43,
+    "Type": "3D Modeling & Animations",
+    "Complexity": "Simple",
+    "Unit": "Minute",
+    "Offshore": 512,
+    "NAmerica": 1338
+  },
+  {
+    "Code": 113,
+    "WPID": 43,
+    "Type": "3D Modeling & Animations",
+    "Complexity": "Moderate",
+    "Unit": "Minute",
+    "Offshore": 688,
+    "NAmerica": 2035
+  },
+  {
+    "Code": 113,
+    "WPID": 43,
+    "Type": "3D Modeling & Animations",
+    "Complexity": "Complex",
+    "Unit": "Minute",
+    "Offshore": 1080,
+    "NAmerica": 3233
+  },
+  {
+    "Code": 113,
+    "WPID": 41,
+    "Type": "Animated GIFs",
+    "Complexity": "Simple",
+    "Unit": "Piece",
+    "Offshore": 70,
+    "NAmerica": 210
+  },
+  {
+    "Code": 113,
+    "WPID": 41,
+    "Type": "Animated GIFs",
+    "Complexity": "Moderate",
+    "Unit": "Piece",
+    "Offshore": 89,
+    "NAmerica": 310
+  },
+  {
+    "Code": 113,
+    "WPID": 41,
+    "Type": "Animated GIFs",
+    "Complexity": "Complex",
+    "Unit": "Piece",
+    "Offshore": 112,
+    "NAmerica": 417
+  },
+  {
+    "Code": 113,
+    "WPID": 35,
+    "Type": "Motion Comics",
+    "Complexity": "Simple",
+    "Unit": "Minute",
+    "Offshore": 75,
+    "NAmerica": 412
+  },
+  {
+    "Code": 113,
+    "WPID": 35,
+    "Type": "Motion Comics",
+    "Complexity": "Moderate",
+    "Unit": "Minute",
+    "Offshore": 125,
+    "NAmerica": 532
+  },
+  {
+    "Code": 113,
+    "WPID": 35,
+    "Type": "Motion Comics",
+    "Complexity": "Complex",
+    "Unit": "Minute",
+    "Offshore": 175,
+    "NAmerica": 680
+  }
+];

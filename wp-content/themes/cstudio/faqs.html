@@ -1,0 +1,248 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.cengage.com/webfiles/1524896943371/cengage/common/css/main.css">
+ <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<!--
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>-->
+<style>
+
+h2 {margin: 1em 0}
+</style>
+<script>
+	$(function(){
+	$('.ceng-accordion_content').hide();
+	$('.ceng-accordion_title').on('click', function(){
+		 //alert('clicked');
+		 var content = $(this).next('.ceng-accordion_content');
+		 var vert =  $(this).find('.vertical')
+		 $('.ceng-accordion_content').not(content).slideUp();
+		 $(content).slideToggle();
+		 $(vert).toggle();
+		 $('.vertical').not(vert).show();
+	});
+ });
+</script>
+</head>
+
+<body >
+<div class="ceng-accordion ceng-accordion--inset ng-scope" style="padding-bottom: 48px; " ng-controller="AccordianListController">
+
+
+    <div class="mobile-padding mobile-padding--top" style="height:20px"></div>
+        <div class="ceng-accordion_inner">
+	        <h2>Instructor FAQs:</h2>
+            <!---Question / Answer - Begin Copy / Paste to add more -->
+                    <div class="ceng-accordion_title" >
+                        <h3>
+                            <a data-type="toggle">What's the difference between grading by Points vs Percentages?</a>
+                            <span class="plus-minus">
+                                <span class="horizontal"></span>
+                                <span class="vertical"></span>
+                            </span>
+                        </h3>
+                    </div>
+                    <div class="ceng-accordion_content">
+                        <div class="ceng-accordion_content_child ">
+							<p>In Grade Calculation by Points, the sum of the points earned are divided by the sum of the points possible to get the overall score. In Grade Calculation by Percent 							Average, the percentage score for all assignments are added together and then divided by the total number of assignments. </p>
+						</div>
+                    </div>
+					 <!---Question / Answer - End Copy / Paste to add more -->
+                    <div class="ceng-accordion_title" >
+                        <h3>
+                            <a data-type="toggle">Why do some categories have weighting and others don't?</a>
+                            <span class="plus-minus">
+                                <span class="horizontal"></span>
+                                <span class="vertical"></span>
+                            </span>
+                        </h3>
+                    </div>
+                    <div class="ceng-accordion_content">
+                        <div class="ceng-accordion_content_child ">
+							<p>All categories you create display in the Progress App regardless of having a weighted value. Only categories that have a weighted value count towards the students 							grade. Uncategorized and Practice Assignment are never included in the students' weighted grade.</p>
+						</div>
+                    </div>
+
+					<div class="ceng-accordion_title" >
+                        <h3>
+                            <a data-type="toggle">Can I export Attendance and Polling records?</a>
+                            <span class="plus-minus">
+                                <span class="horizontal"></span>
+                                <span class="vertical"></span>
+                            </span>
+                        </h3>
+                    </div>
+                    <div class="ceng-accordion_content">
+                        <div class="ceng-accordion_content_child ">
+							<p>Yes, you can export both Attendance and Polling records as a csv file and have it emailed directly to you. </p>
+						</div>
+                    </div>
+
+                   <div class="ceng-accordion_title" >
+                        <h3>
+                            <a data-type="toggle">Do Polling questions count towards my students' grade?</a>
+                            <span class="plus-minus">
+                                <span class="horizontal"></span>
+                                <span class="vertical"></span>
+                            </span>
+                        </h3>
+                    </div>
+                    <div class="ceng-accordion_content">
+                        <div class="ceng-accordion_content_child ">
+							<p>Polling questions only count if you export the results and import them via MindTap as an activity. </p>
+						</div>
+                    </div>
+
+                    <div class="ceng-accordion_title" >
+                        <h3>
+                            <a data-type="toggle">Why am I seeing "no active courses"? </a>
+                            <span class="plus-minus">
+                                <span class="horizontal"></span>
+                                <span class="vertical"></span>
+                            </span>
+                        </h3>
+                    </div>
+                    <div class="ceng-accordion_content">
+                        <div class="ceng-accordion_content_child ">
+							<p>You may have setup a learning product online but not yet created a course for it with a current start and end date. Make sure you create that course to go with your 							learning product and it should then appear in the app. </p>
+						</div>
+                    </div>
+                    <div class="ceng-accordion_title" >
+                        <h3>
+                            <a data-type="toggle">Do notes, highlights and flashcards I create on the web get synced with the app?</a>
+                            <span class="plus-minus">
+                                <span class="horizontal"></span>
+                                <span class="vertical"></span>
+                            </span>
+                        </h3>
+                    </div>
+                    <div class="ceng-accordion_content">
+                        <div class="ceng-accordion_content_child ">
+							<p>No. We are very sorry about this but annotations and study tools are specific to the mobile app and cannot be synced.</p>
+						</div>
+                    </div>
+
+					<h2>Student FAQs:</h2>
+
+                    <div class="ceng-accordion_title" >
+                        <h3>
+                            <a data-type="toggle">Why can't I login?</a>
+                            <span class="plus-minus">
+                                <span class="horizontal"></span>
+                                <span class="vertical"></span>
+                            </span>
+                        </h3>
+                    </div>
+                    <div class="ceng-accordion_content">
+                        <div class="ceng-accordion_content_child ">
+							<p>Make sure you are using your login credentials for Cengage. If you have credentials from your school's Learning Management System, they will not work. If you are a 								K-12 user, please see your administrator for assistance. </p>
+						</div>
+                    </div>
+
+					<div class="ceng-accordion_title" >
+                        <h3>
+                            <a data-type="toggle">Why aren't my or my instructor's notes, highlights and bookmarks syncing with StudyHub?</a>
+                            <span class="plus-minus">
+                                <span class="horizontal"></span>
+                                <span class="vertical"></span>
+                            </span>
+                        </h3>
+                    </div>
+
+                     <div class="ceng-accordion_content">
+                        <div class="ceng-accordion_content_child ">
+							<p>Currently notes, highlights, and bookmarks taken in the mobile app are only saved and viewable on your phone. They will not get stored/saved on MindTap web in 									StudyHub, nor will notes, highlights, and bookmarks you or your instructor made on the web appear in the app. We are working towards supporting this functionality 								in the future.</p>
+						</div>
+                    </div>
+
+                    <div class="ceng-accordion_title" >
+                        <h3>
+                            <a data-type="toggle">Why can't I see my textbook?</a>
+                            <span class="plus-minus">
+                                <span class="horizontal"></span>
+                                <span class="vertical"></span>
+                            </span>
+                        </h3>
+                    </div>
+                    <div class="ceng-accordion_content">
+                        <div class="ceng-accordion_content_child ">
+							<p>Currently we support all MindTap textbook titles from 2015, 2016, 2017, 2018 and 2019. Textbooks from 2014 and prior, as well as custom and international textbooks 								are not supported.</p>                        </div>
+                    </div>
+
+
+                    <div class="ceng-accordion_content">
+                        <div class="ceng-accordion_content_child ">
+							<p>Currently notes, highlights, and bookmarks taken in the mobile app are only saved and viewable on your phone. They will not get stored/saved on MindTap web in 								StudyHub, nor will notes, highlights, and bookmarks you or your instructor made on the web appear in the app. We are working towards supporting this functionality in 							the future.</p>
+						</div>
+                    </div>
+
+					<div class="ceng-accordion_title" >
+                        <h3>
+                            <a data-type="toggle">Why can't I do my homework activities?</a>
+                            <span class="plus-minus">
+                                <span class="horizontal"></span>
+                                <span class="vertical"></span>
+                            </span>
+                        </h3>
+                    </div>
+                    <div class="ceng-accordion_content">
+                        <div class="ceng-accordion_content_child ">
+							<p>The app currently does not support doing homework activities. We are working towards supporting this functionality in the future.</p>
+						</div>
+                    </div>
+
+                    <div class="ceng-accordion_title" >
+                        <h3>
+                            <a data-type="toggle">Why isn't my audio playing for a video or flashcard?</a>
+                            <span class="plus-minus">
+                                <span class="horizontal"></span>
+                                <span class="vertical"></span>
+                            </span>
+                        </h3>
+                    </div>
+                    <div class="ceng-accordion_content">
+                        <div class="ceng-accordion_content_child ">
+							<p>Make sure your phone is not on silent mode.</p>
+						</div>
+                    </div>
+
+					<div class="ceng-accordion_title" >
+                        <h3>
+                            <a data-type="toggle">What features of the app can I access from my Apple Watch?</a>
+                            <span class="plus-minus">
+                                <span class="horizontal"></span>
+                                <span class="vertical"></span>
+                            </span>
+                        </h3>
+                    </div>
+                    <div class="ceng-accordion_content">
+                        <div class="ceng-accordion_content_child ">
+							<p>Currently from your Apple Watch, you can view notifications, the rolling week view, activities list, and flashcards.</p>
+						</div>
+                    </div>
+
+                    <div class="ceng-accordion_title" >
+                        <h3>
+                            <a data-type="toggle">Do Polls count towards my grade?</a>
+                            <span class="plus-minus">
+                                <span class="horizontal"></span>
+                                <span class="vertical"></span>
+                            </span>
+                        </h3>
+                    </div>
+                    <div class="ceng-accordion_content">
+                        <div class="ceng-accordion_content_child ">
+							<p>Only if your instructor imports the results in MindTap. </p>
+						</div>
+                    </div>
+
+					 <!---Question / Answer -  Copy / Paste below to add more -->
+
+
+        </div>
+    <div class="mobile-padding mobile-padding--bottom" style="height:20px"></div>
+</div>
+</body>
+</html>

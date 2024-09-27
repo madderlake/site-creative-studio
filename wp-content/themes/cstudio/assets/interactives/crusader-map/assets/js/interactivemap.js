@@ -1,0 +1,19 @@
+$(document).ready(function()
+{
+        /* Hide and Show Object */
+	$('.toogle-show').unbind("click");
+	$('.toogle-show').click(function() 
+	{
+		$('.'+$(this).attr('data-img')).toggleClass('show');
+		console.log($('.'+$(this).attr('data-img')+'_2').css("display"));
+		if($('.'+$(this).attr('data-img')+'_1').css("display")=="none")
+		{
+			$('.'+$(this).attr('data-img')+'_2').css("display","none");
+			$('.'+$(this).attr('data-img')+'_1').css("display","block");
+		}else
+		{
+			$('.'+$(this).attr('data-img')+'_2').css("display","block");
+			$('.'+$(this).attr('data-img')+'_1').css("display","none");
+		}
+	});
+});

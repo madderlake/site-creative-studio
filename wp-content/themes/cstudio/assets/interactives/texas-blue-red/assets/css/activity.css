@@ -1,0 +1,17 @@
+*{margin:0;padding:0; -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box;}
+html{-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;height:100%;width:100%;}
+body{font-size:14px;line-height:1.42857143;height:100%;width:100%;}
+.wrapper{ height:100%;width:100%;float:left;overflow:hidden;}
+svg{height:100%;width:100%;position:absolute;padding:0 10px;}
+[data-valrange],.transparent-top-left{display:none}
+.btn{cursor:pointer}
+.prompt-box{position:absolute;left:0;top:0;width:100%;height:100%;background-color:rgba(0,0,0, 0.35);cursor:pointer;z-index:13;display:none}
+a{color:red}
+.info_box{
+	display:none;
+}
+.tab_btn {
+    cursor: pointer;
+}
+.show-box{display:block!important}
+.hide-box{display:none!important}

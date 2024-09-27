@@ -1,0 +1,811 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<disciplines>
+  <discipline>
+    <Title>Blueprint</Title>
+    <Portfolio>Qualitative/Quantitative Business and Skills</Portfolio>
+    <Product Manager>Abby Schultheis</Product Manager>
+    <PTM></PTM>
+    <DA Designer>Erin Griffin</DA Designer>
+    <DA AV>Monica Little</DA AV>
+  </discipline>
+  <discipline>
+    <Title>Career Success</Title>
+    <Portfolio>Qualitative/Quantitative Business and Skills</Portfolio>
+    <Product Manager>Abby Schultheis</Product Manager>
+    <PTM></PTM>
+    <DA Designer>Erin Griffin</DA Designer>
+    <DA AV>Monica Little</DA AV>
+  </discipline>
+  <discipline>
+    <Title>Drafting-Engineering</Title>
+    <Portfolio>Qualitative/Quantitative Business and Skills</Portfolio>
+    <Product Manager>Abby Schultheis</Product Manager>
+    <PTM></PTM>
+    <DA Designer>Erin Griffin</DA Designer>
+    <DA AV>Monica Little</DA AV>
+  </discipline>
+  <discipline>
+    <Title>Harvest Lists</Title>
+    <Portfolio>Qualitative/Quantitative Business and Skills</Portfolio>
+    <Product Manager>Abby Schultheis</Product Manager>
+    <PTM></PTM>
+    <DA Designer>Erin Griffin</DA Designer>
+    <DA AV>Monica Little</DA AV>
+  </discipline>
+  <discipline>
+    <Title>Paralegal</Title>
+    <Portfolio>Qualitative/Quantitative Business and Skills</Portfolio>
+    <Product Manager>Abby Schultheis</Product Manager>
+    <PTM></PTM>
+    <DA Designer>Erin Griffin</DA Designer>
+    <DA AV>Monica Little</DA AV>
+  </discipline>
+  <discipline>
+    <Title>Bus Math</Title>
+    <Portfolio>Qualitative/Quantitative Business and Skills</Portfolio>
+    <Product Manager>Aaron Arnsparger</Product Manager>
+    <PTM></PTM>
+    <DA Designer>Chris Doughman</DA Designer>
+    <DA AV>Monica Little</DA AV>
+  </discipline>
+  <discipline>
+    <Title>Bus Stats</Title>
+    <Portfolio>Qualitative/Quantitative Business and Skills</Portfolio>
+    <Product Manager>Aaron Arnsparger</Product Manager>
+    <PTM></PTM>
+    <DA Designer>Chris Doughman</DA Designer>
+    <DA AV>Monica Little</DA AV>
+  </discipline>
+  <discipline>
+    <Title>Decision Sci</Title>
+    <Portfolio>Qualitative/Quantitative Business and Skills</Portfolio>
+    <Product Manager>Aaron Arnsparger</Product Manager>
+    <PTM></PTM>
+    <DA Designer>Chris Doughman</DA Designer>
+    <DA AV>Monica Little</DA AV>
+  </discipline>
+  <discipline>
+    <Title>Comp Concepts</Title>
+    <Portfolio>Qualitative/Quantitative Business and Skills</Portfolio>
+    <Product Manager>Amanda Lyons</Product Manager>
+    <PTM></PTM>
+    <DA Designer>Lizz Anderson</DA Designer>
+    <DA AV>Monica Little</DA AV>
+  </discipline>
+  <discipline>
+    <Title>InfoSec</Title>
+    <Portfolio>Qualitative/Quantitative Business and Skills</Portfolio>
+    <Product Manager>Amy Savino</Product Manager>
+    <PTM></PTM>
+    <DA Designer>Erin Griffin</DA Designer>
+    <DA AV>Monica Little</DA AV>
+  </discipline>
+  <discipline>
+    <Title>IT</Title>
+    <Portfolio>Qualitative/Quantitative Business and Skills</Portfolio>
+    <Product Manager>Amy Savino</Product Manager>
+    <PTM></PTM>
+    <DA Designer>Erin Griffin</DA Designer>
+    <DA AV>Monica Little</DA AV>
+  </discipline>
+  <discipline>
+    <Title>Networking</Title>
+    <Portfolio>Qualitative/Quantitative Business and Skills</Portfolio>
+    <Product Manager>Amy Savino</Product Manager>
+    <PTM></PTM>
+    <DA Designer>Erin Griffin</DA Designer>
+    <DA AV>Monica Little</DA AV>
+  </discipline>
+  <discipline>
+    <Title>Life Span Psychology</Title>
+    <Portfolio>Social Sciences and Gale</Portfolio>
+    <Product Manager>Andrew Ginsberg</Product Manager>
+    <PTM>Starr Burruto</PTM>
+    <DA Designer>Marissa Falco</DA Designer>
+    <DA AV>Stephanie Beach</DA AV>
+  </discipline>
+  <discipline>
+    <Title>Sociology</Title>
+    <Portfolio>Social Sciences and Gale</Portfolio>
+    <Product Manager>Ava Fruin</Product Manager>
+    <PTM></PTM>
+    <DA Designer>Marissa Falco</DA Designer>
+    <DA AV>Stephanie Beach</DA AV>
+  </discipline>
+  <discipline>
+    <Title>Radio/TV/Film</Title>
+    <Portfolio>Social Sciences and Gale</Portfolio>
+    <Product Manager>Carolyn Lewis</Product Manager>
+    <PTM></PTM>
+    <DA Designer>Marissa Falco</DA Designer>
+    <DA AV>Stephanie Beach</DA AV>
+  </discipline>
+  <discipline>
+    <Title>Speech</Title>
+    <Portfolio>Social Sciences and Gale</Portfolio>
+    <Product Manager>Carolyn Lewis</Product Manager>
+    <PTM></PTM>
+    <DA Designer>Marissa Falco</DA Designer>
+    <DA AV>Stephanie Beach</DA AV>
+  </discipline>
+  <discipline>
+    <Title>Theatre</Title>
+    <Portfolio>Social Sciences and Gale</Portfolio>
+    <Product Manager>Carolyn Lewis</Product Manager>
+    <PTM></PTM>
+    <DA Designer>Marissa Falco</DA Designer>
+    <DA AV>Stephanie Beach</DA AV>
+  </discipline>
+  <discipline>
+    <Title>Statistics</Title>
+    <Portfolio>Science, Technology, Math, and Dev Studies</Portfolio>
+    <Product Manager>Catherine Van Der Laan</Product Manager>
+    <PTM></PTM>
+    <DA Designer>Diana Graham</DA Designer>
+    <DA AV>Andy Kwok</DA AV>
+  </discipline>
+  <discipline>
+    <Title>Accounting</Title>
+    <Portfolio>Qualitative/Quantitative Business and Skills</Portfolio>
+    <Product Manager>Chris Rader</Product Manager>
+    <PTM></PTM>
+    <DA Designer>Bethany Bourgeois</DA Designer>
+    <DA AV>Monica Little</DA AV>
+  </discipline>
+  <discipline>
+    <Title>CS</Title>
+    <Portfolio>Qualitative/Quantitative Business and Skills</Portfolio>
+    <Product Manager>Chris Shortt</Product Manager>
+    <PTM></PTM>
+    <DA Designer>Erin Griffin</DA Designer>
+    <DA AV>Monica Little</DA AV>
+  </discipline>
+  <discipline>
+    <Title>MAD</Title>
+    <Portfolio>Qualitative/Quantitative Business and Skills</Portfolio>
+    <Product Manager>Chris Shortt</Product Manager>
+    <PTM></PTM>
+    <DA Designer>Erin Griffin</DA Designer>
+    <DA AV>Monica Little</DA AV>
+  </discipline>
+  <discipline>
+    <Title>Programming</Title>
+    <Portfolio>Qualitative/Quantitative Business and Skills</Portfolio>
+    <Product Manager>Chris Shortt</Product Manager>
+    <PTM></PTM>
+    <DA Designer>Erin Griffin</DA Designer>
+    <DA AV>Monica Little</DA AV>
+  </discipline>
+  <discipline>
+    <Title>Web</Title>
+    <Portfolio>Qualitative/Quantitative Business and Skills</Portfolio>
+    <Product Manager>Chris Shortt</Product Manager>
+    <PTM></PTM>
+    <DA Designer>Erin Griffin</DA Designer>
+    <DA AV>Monica Little</DA AV>
+  </discipline>
+  <discipline>
+    <Title>Education/ECE</Title>
+    <Portfolio>Social Sciences and Gale</Portfolio>
+    <Product Manager>Colin Grover</Product Manager>
+    <PTM></PTM>
+    <DA Designer>Helen Bruno</DA Designer>
+    <DA AV>Stephanie Beach</DA AV>
+  </discipline>
+  <discipline>
+    <Title>Fitness</Title>
+    <Portfolio>Science, Technology, Math, and Dev Studies</Portfolio>
+    <Product Manager>Courtney Heilman</Product Manager>
+    <PTM>Kelsey Churchman</PTM>
+    <DA Designer>Helen Bruno</DA Designer>
+    <DA AV>Andy Kwok</DA AV>
+  </discipline>
+  <discipline>
+    <Title>Wellness/ Nutrition</Title>
+    <Portfolio>Science, Technology, Math, and Dev Studies</Portfolio>
+    <Product Manager>Courtney Heilman</Product Manager>
+    <PTM>Kelsey Churchman</PTM>
+    <DA Designer>Helen Bruno</DA Designer>
+    <DA AV>Andy Kwok</DA AV>
+  </discipline>
+  <discipline>
+    <Title>Dev Math</Title>
+    <Portfolio>Science, Technology, Math, and Dev Studies</Portfolio>
+    <Product Manager>Spencer Arritt</Product Manager>
+    <PTM></PTM>
+    <DA Designer>Diana Graham</DA Designer>
+    <DA AV>Andy Kwok</DA AV>
+  </discipline>
+  <discipline>
+    <Title>Calculus</Title>
+    <Portfolio>Science, Technology, Math, and Dev Studies</Portfolio>
+    <Product Manager>Gary Whalen</Product Manager>
+    <PTM></PTM>
+    <DA Designer>Diana Graham</DA Designer>
+    <DA AV>Andy Kwok</DA AV>
+  </discipline>
+  <discipline>
+    <Title>Pre-Calc</Title>
+    <Portfolio>Science, Technology, Math, and Dev Studies</Portfolio>
+    <Product Manager>Gary Whalen</Product Manager>
+    <PTM></PTM>
+    <DA Designer>Diana Graham</DA Designer>
+    <DA AV>Andy Kwok</DA AV>
+  </discipline>
+  <discipline>
+    <Title>World Languages</Title>
+    <Portfolio>Humanities and World Languages</Portfolio>
+    <Product Manager>Heather Bradley-Cole</Product Manager>
+    <PTM></PTM>
+    <DA Designer>Sarah Cole </DA Designer>
+    <DA AV>Elyssa Healy</DA AV>
+  </discipline>
+  <discipline>
+    <Title>Biz Com</Title>
+    <Portfolio>Qualitative/Quantitative Business and Skills</Portfolio>
+    <Product Manager>Heather Mooney</Product Manager>
+    <PTM></PTM>
+    <DA Designer>Bethany Bourgeois</DA Designer>
+    <DA AV>Monica Little</DA AV>
+  </discipline>
+  <discipline>
+    <Title>Intro Biz </Title>
+    <Portfolio>Qualitative/Quantitative Business and Skills</Portfolio>
+    <Product Manager>Heather Mooney</Product Manager>
+    <PTM></PTM>
+    <DA Designer>Bethany Bourgeois</DA Designer>
+    <DA AV>Monica Little</DA AV>
+  </discipline>
+  <discipline>
+    <Title>Marketing</Title>
+    <Portfolio>Qualitative/Quantitative Business and Skills</Portfolio>
+    <Product Manager>Heather Mooney</Product Manager>
+    <PTM></PTM>
+    <DA Designer>Bethany Bourgeois</DA Designer>
+    <DA AV>Monica Little</DA AV>
+  </discipline>
+  <discipline>
+    <Title>Upper Level Chemistry</Title>
+    <Portfolio>Science, Technology, Math, and Dev Studies</Portfolio>
+    <Product Manager>Helene Alfaro</Product Manager>
+    <PTM></PTM>
+    <DA Designer>Marissa Falco</DA Designer>
+    <DA AV>Andy Kwok</DA AV>
+  </discipline>
+  <discipline>
+    <Title>MIS</Title>
+    <Portfolio>Qualitative/Quantitative Business and Skills</Portfolio>
+    <Product Manager>Jaymie Falconi</Product Manager>
+    <PTM></PTM>
+    <DA Designer>Lizz Anderson</DA Designer>
+    <DA AV>Monica Little</DA AV>
+  </discipline>
+  <discipline>
+    <Title>U.S. Hist </Title>
+    <Portfolio>Humanities and World Languages</Portfolio>
+    <Product Manager>Joe Potvin</Product Manager>
+    <PTM></PTM>
+    <DA Designer>Sarah Cole </DA Designer>
+    <DA AV>Elyssa Healy</DA AV>
+  </discipline>
+  <discipline>
+    <Title>Western Civ</Title>
+    <Portfolio>Humanities and World Languages</Portfolio>
+    <Product Manager>Joe Potvin</Product Manager>
+    <PTM></PTM>
+    <DA Designer>Sarah Cole </DA Designer>
+    <DA AV>Elyssa Healy</DA AV>
+  </discipline>
+  <discipline>
+    <Title>World Hist</Title>
+    <Portfolio>Humanities and World Languages</Portfolio>
+    <Product Manager>Joe Potvin</Product Manager>
+    <PTM></PTM>
+    <DA Designer>Sarah Cole </DA Designer>
+    <DA AV>Elyssa Healy</DA AV>
+  </discipline>
+  <discipline>
+    <Title>Finance</Title>
+    <Portfolio>Qualitative/Quantitative Business and Skills</Portfolio>
+    <Product Manager>Joe Sabatino</Product Manager>
+    <PTM></PTM>
+    <DA Designer>Chris Doughman</DA Designer>
+    <DA AV>Monica Little</DA AV>
+  </discipline>
+  <discipline>
+    <Title>Taxation</Title>
+    <Portfolio>Qualitative/Quantitative Business and Skills</Portfolio>
+    <Product Manager>Jonathan Gross</Product Manager>
+    <PTM></PTM>
+    <DA Designer>Chris Doughman</DA Designer>
+    <DA AV>Monica Little</DA AV>
+  </discipline>
+  <discipline>
+    <Title>Criminal Justice</Title>
+    <Portfolio>Social Sciences and Gale</Portfolio>
+    <Product Manager>Joshua Parrot</Product Manager>
+    <PTM></PTM>
+    <DA Designer>Helen Bruno</DA Designer>
+    <DA AV>Stephanie Beach</DA AV>
+  </discipline>
+  <discipline>
+    <Title>Counseling</Title>
+    <Portfolio>Social Sciences and Gale</Portfolio>
+    <Product Manager>Julie Martinez</Product Manager>
+    <PTM></PTM>
+    <DA Designer>Marissa Falco</DA Designer>
+    <DA AV>Stephanie Beach</DA AV>
+  </discipline>
+  <discipline>
+    <Title>Social Work</Title>
+    <Portfolio>Social Sciences and Gale</Portfolio>
+    <Product Manager>Julie Martinez</Product Manager>
+    <PTM></PTM>
+    <DA Designer>Marissa Falco</DA Designer>
+    <DA AV>Stephanie Beach</DA AV>
+  </discipline>
+  <discipline>
+    <Title>Milady</Title>
+    <Portfolio>Qualitative/Quantitative Business and Skills</Portfolio>
+    <Product Manager>Kara Melillo</Product Manager>
+    <PTM></PTM>
+    <DA Designer>Jack Pendleton</DA Designer>
+    <DA AV>Monica Little</DA AV>
+  </discipline>
+  <discipline>
+    <Title>Biology</Title>
+    <Portfolio>Science, Technology, Math, and Dev Studies</Portfolio>
+    <Product Manager>Katherine Caudill-Rios </Product Manager>
+    <PTM>Kelsey Churchman</PTM>
+    <DA Designer>Helen Bruno</DA Designer>
+    <DA AV>Andy Kwok</DA AV>
+  </discipline>
+  <discipline>
+    <Title>Automotive</Title>
+    <Portfolio>Qualitative/Quantitative Business and Skills</Portfolio>
+    <Product Manager>Katie McGuire</Product Manager>
+    <PTM></PTM>
+    <DA Designer>Angela Sheehan</DA Designer>
+    <DA AV>Monica Little</DA AV>
+  </discipline>
+  <discipline>
+    <Title>Machining</Title>
+    <Portfolio>Qualitative/Quantitative Business and Skills</Portfolio>
+    <Product Manager>Katie McGuire</Product Manager>
+    <PTM></PTM>
+    <DA Designer>Angela Sheehan</DA Designer>
+    <DA AV>Monica Little</DA AV>
+  </discipline>
+  <discipline>
+    <Title>Process Tech</Title>
+    <Portfolio>Qualitative/Quantitative Business and Skills</Portfolio>
+    <Product Manager>Katie McGuire</Product Manager>
+    <PTM></PTM>
+    <DA Designer>Angela Sheehan</DA Designer>
+    <DA AV>Monica Little</DA AV>
+  </discipline>
+  <discipline>
+    <Title>Robotics</Title>
+    <Portfolio>Qualitative/Quantitative Business and Skills</Portfolio>
+    <Product Manager>Katie McGuire</Product Manager>
+    <PTM></PTM>
+    <DA Designer>Angela Sheehan</DA Designer>
+    <DA AV>Monica Little</DA AV>
+  </discipline>
+  <discipline>
+    <Title>Welding</Title>
+    <Portfolio>Qualitative/Quantitative Business and Skills</Portfolio>
+    <Product Manager>Katie McGuire</Product Manager>
+    <PTM></PTM>
+    <DA Designer>Angela Sheehan</DA Designer>
+    <DA AV>Monica Little</DA AV>
+  </discipline>
+  <discipline>
+    <Title>Anthropology</Title>
+    <Portfolio>Social Sciences and Gale</Portfolio>
+    <Product Manager>Kori Alexander</Product Manager>
+    <PTM>Laura Ross</PTM>
+    <DA Designer>Marissa Falco</DA Designer>
+    <DA AV>Stephanie Beach</DA AV>
+  </discipline>
+  <discipline>
+    <Title>Lit</Title>
+    <Portfolio>Social Sciences and Gale</Portfolio>
+    <Product Manager>Kori Alexander</Product Manager>
+    <PTM>Laura Ross</PTM>
+    <DA Designer>Marissa Falco</DA Designer>
+    <DA AV>Stephanie Beach</DA AV>
+  </discipline>
+  <discipline>
+    <Title>Mass Comm</Title>
+    <Portfolio>Social Sciences and Gale</Portfolio>
+    <Product Manager>Kori Alexander</Product Manager>
+    <PTM>Laura Ross</PTM>
+    <DA Designer>Marissa Falco</DA Designer>
+    <DA AV>Stephanie Beach</DA AV>
+  </discipline>
+  <discipline>
+    <Title>Music</Title>
+    <Portfolio>Humanities and World Languages</Portfolio>
+    <Product Manager>Kori Alexander</Product Manager>
+    <PTM>Laura Ross</PTM>
+    <DA Designer>Marissa Falco</DA Designer>
+    <DA AV>Elyssa Healy</DA AV>
+  </discipline>
+  <discipline>
+    <Title>Philosophy</Title>
+    <Portfolio>Humanities and World Languages</Portfolio>
+    <Product Manager>Kori Alexander</Product Manager>
+    <PTM>Laura Ross</PTM>
+    <DA Designer>Marissa Falco</DA Designer>
+    <DA AV>Elyssa Healy</DA AV>
+  </discipline>
+  <discipline>
+    <Title>Religion</Title>
+    <Portfolio>Humanities and World Languages</Portfolio>
+    <Product Manager>Kori Alexander</Product Manager>
+    <PTM>Laura Ross</PTM>
+    <DA Designer>Marissa Falco</DA Designer>
+    <DA AV>Elyssa Healy</DA AV>
+  </discipline>
+  <discipline>
+    <Title>Basic Health Sciences</Title>
+    <Portfolio>Qualitative/Quantitative Business and Skills</Portfolio>
+    <Product Manager>Laura Stewart</Product Manager>
+    <PTM></PTM>
+    <DA Designer>Angela Sheehan</DA Designer>
+    <DA AV>Monica Little</DA AV>
+  </discipline>
+  <discipline>
+    <Title>Nursing Assist</Title>
+    <Portfolio>Qualitative/Quantitative Business and Skills</Portfolio>
+    <Product Manager>Laura Stewart</Product Manager>
+    <PTM></PTM>
+    <DA Designer>Angela Sheehan</DA Designer>
+    <DA AV>Monica Little</DA AV>
+  </discipline>
+  <discipline>
+    <Title>Sports Med</Title>
+    <Portfolio>Qualitative/Quantitative Business and Skills</Portfolio>
+    <Product Manager>Laura Stewart</Product Manager>
+    <PTM></PTM>
+    <DA Designer>Angela Sheehan</DA Designer>
+    <DA AV>Monica Little</DA AV>
+  </discipline>
+  <discipline>
+    <Title>Environmental Science</Title>
+    <Portfolio>Science, Technology, Math, and Dev Studies</Portfolio>
+    <Product Manager>Lauren Bakker</Product Manager>
+    <PTM>Kelsey Churchman</PTM>
+    <DA Designer>Helen Bruno</DA Designer>
+    <DA AV>Andy Kwok</DA AV>
+  </discipline>
+  <discipline>
+    <Title>Astronomy</Title>
+    <Portfolio>Science, Technology, Math, and Dev Studies</Portfolio>
+    <Product Manager>Lauren Bakker</Product Manager>
+    <PTM>Kelsey Churchman</PTM>
+    <DA Designer>Helen Bruno</DA Designer>
+    <DA AV>Andy Kwok</DA AV>
+  </discipline>
+  <discipline>
+    <Title>Health Admin &amp; Mgmt</Title>
+    <Portfolio>Qualitative/Quantitative Business and Skills</Portfolio>
+    <Product Manager>Lauren Whalen</Product Manager>
+    <PTM></PTM>
+    <DA Designer>Angela Sheehan</DA Designer>
+    <DA AV>Monica Little</DA AV>
+  </discipline>
+  <discipline>
+    <Title>Health Info Mgmt</Title>
+    <Portfolio>Qualitative/Quantitative Business and Skills</Portfolio>
+    <Product Manager>Lauren Whalen</Product Manager>
+    <PTM></PTM>
+    <DA Designer>Angela Sheehan</DA Designer>
+    <DA AV>Monica Little</DA AV>
+  </discipline>
+  <discipline>
+    <Title>Med Ins &amp; Coding</Title>
+    <Portfolio>Qualitative/Quantitative Business and Skills</Portfolio>
+    <Product Manager>Lauren Whalen</Product Manager>
+    <PTM></PTM>
+    <DA Designer>Angela Sheehan</DA Designer>
+    <DA AV>Monica Little</DA AV>
+  </discipline>
+  <discipline>
+    <Title>Med Trans</Title>
+    <Portfolio>Qualitative/Quantitative Business and Skills</Portfolio>
+    <Product Manager>Lauren Whalen</Product Manager>
+    <PTM></PTM>
+    <DA Designer>Angela Sheehan</DA Designer>
+    <DA AV>Monica Little</DA AV>
+  </discipline>
+  <discipline>
+    <Title>Surg Tech</Title>
+    <Portfolio>Qualitative/Quantitative Business and Skills</Portfolio>
+    <Product Manager>Lauren Whalen</Product Manager>
+    <PTM></PTM>
+    <DA Designer>Angela Sheehan</DA Designer>
+    <DA AV>Monica Little</DA AV>
+  </discipline>
+  <discipline>
+    <Title>Illus</Title>
+    <Portfolio>Qualitative/Quantitative Business and Skills</Portfolio>
+    <Product Manager>(open)</Product Manager>
+    <PTM></PTM>
+    <DA Designer>Lizz Anderson</DA Designer>
+    <DA AV>Monica Little</DA AV>
+  </discipline>
+  <discipline>
+    <Title>New Perspectives</Title>
+    <Portfolio>Qualitative/Quantitative Business and Skills</Portfolio>
+    <Product Manager>(open)</Product Manager>
+    <PTM></PTM>
+    <DA Designer>Lizz Anderson</DA Designer>
+    <DA AV>Monica Little</DA AV>
+  </discipline>
+  <discipline>
+    <Title>Accounting</Title>
+    <Portfolio>Qualitative/Quantitative Business and Skills</Portfolio>
+    <Product Manager>Matt Fillimonov/John Barans</Product Manager>
+    <PTM></PTM>
+    <DA Designer>Chris Doughman</DA Designer>
+    <DA AV>Monica Little</DA AV>
+  </discipline>
+  <discipline>
+    <Title>General Chemistry</Title>
+    <Portfolio>Science, Technology, Math, and Dev Studies</Portfolio>
+    <Product Manager>Maureen McLaughlin</Product Manager>
+    <PTM></PTM>
+    <DA Designer>Marissa Falco</DA Designer>
+    <DA AV>Andy Kwok</DA AV>
+  </discipline>
+  <discipline>
+    <Title>HR</Title>
+    <Portfolio>Qualitative/Quantitative Business and Skills</Portfolio>
+    <Product Manager>Michael Giffen</Product Manager>
+    <PTM></PTM>
+    <DA Designer>Bethany Bourgeois</DA Designer>
+    <DA AV>Monica Little</DA AV>
+  </discipline>
+  <discipline>
+    <Title>Management</Title>
+    <Portfolio>Qualitative/Quantitative Business and Skills</Portfolio>
+    <Product Manager>Michael Giffen</Product Manager>
+    <PTM></PTM>
+    <DA Designer>Bethany Bourgeois</DA Designer>
+    <DA AV>Monica Little</DA AV>
+  </discipline>
+  <discipline>
+    <Title>Economics</Title>
+    <Portfolio>Qualitative/Quantitative Business and Skills</Portfolio>
+    <Product Manager>Michael Parthenakis/Kate Hunt</Product Manager>
+    <PTM></PTM>
+    <DA Designer>Bethany Bourgeois</DA Designer>
+    <DA AV>Monica Little</DA AV>
+  </discipline>
+  <discipline>
+    <Title>4LTR Brand Lead</Title>
+    <Portfolio></Portfolio>
+    <Product Manager>Mike Shenk</Product Manager>
+    <PTM></PTM>
+    <DA Designer>Bethany Bourgeois</DA Designer>
+    <DA AV>Stephanie Beach</DA AV>
+  </discipline>
+  <discipline>
+    <Title>Accessibility Specialist</Title>
+    <Portfolio>n/a</Portfolio>
+    <Product Manager>n/a</Product Manager>
+    <PTM></PTM>
+    <DA Designer>Andrei Pasternak</DA Designer>
+    <DA AV>n/a</DA AV>
+  </discipline>
+  <discipline>
+    <Title>Eng Comp</Title>
+    <Portfolio>Social Sciences and Gale</Portfolio>
+    <Product Manager>Nancy Tran</Product Manager>
+    <PTM>Laura Ross</PTM>
+    <DA Designer>Lizz Anderson</DA Designer>
+    <DA AV>Stephanie Beach</DA AV>
+  </discipline>
+  <discipline>
+    <Title>Dev Eng</Title>
+    <Portfolio>Humanities and World Languages</Portfolio>
+    <Product Manager>Nancy Tran</Product Manager>
+    <PTM>Laura Ross</PTM>
+    <DA Designer>Lizz Anderson</DA Designer>
+    <DA AV>Elyssa Healy</DA AV>
+  </discipline>
+  <discipline>
+    <Title>Abnormal Psychology</Title>
+    <Portfolio>Social Sciences and Gale</Portfolio>
+    <Product Manager>Elizabeth Swander</Product Manager>
+    <PTM>Starr Burruto</PTM>
+    <DA Designer>Marissa Falco</DA Designer>
+    <DA AV>Stephanie Beach</DA AV>
+  </discipline>
+  <discipline>
+    <Title>Agriscience</Title>
+    <Portfolio>Qualitative/Quantitative Business and Skills</Portfolio>
+    <Product Manager>Nicole Robinson</Product Manager>
+    <PTM></PTM>
+    <DA Designer>Erin Griffin</DA Designer>
+    <DA AV>Monica Little</DA AV>
+  </discipline>
+  <discipline>
+    <Title>SWEP</Title>
+    <Portfolio>Qualitative/Quantitative Business and Skills</Portfolio>
+    <Product Manager>Nicole Robinson</Product Manager>
+    <PTM></PTM>
+    <DA Designer>Erin Griffin</DA Designer>
+    <DA AV>Monica Little</DA AV>
+  </discipline>
+  <discipline>
+    <Title>Physics</Title>
+    <Portfolio>Science, Technology, Math, and Dev Studies</Portfolio>
+    <Product Manager>Nate Thibeault</Product Manager>
+    <PTM></PTM>
+    <DA Designer>Diana Graham</DA Designer>
+    <DA AV>Andy Kwok</DA AV>
+  </discipline>
+  <discipline>
+    <Title>Political Science </Title>
+    <Portfolio>Social Sciences and Gale</Portfolio>
+    <Product Manager>Richard Lena</Product Manager>
+    <PTM></PTM>
+    <DA Designer>Sarah Cole </DA Designer>
+    <DA AV>Stephanie Beach</DA AV>
+  </discipline>
+  <discipline>
+    <Title>Applied Math</Title>
+    <Portfolio>Science, Technology, Math, and Dev Studies</Portfolio>
+    <Product Manager>Jay Campell</Product Manager>
+    <PTM></PTM>
+    <DA Designer>Diana Graham</DA Designer>
+    <DA AV>Andy Kwok</DA AV>
+  </discipline>
+  <discipline>
+    <Title>Advanced Math</Title>
+    <Portfolio>Science, Technology, Math, and Dev Studies</Portfolio>
+    <Product Manager>Rita Lombard</Product Manager>
+    <PTM></PTM>
+    <DA Designer>Diana Graham</DA Designer>
+    <DA AV>Andy Kwok</DA AV>
+  </discipline>
+  <discipline>
+    <Title>Applied Math</Title>
+    <Portfolio>Science, Technology, Math, and Dev Studies</Portfolio>
+    <Product Manager>Rita Lombard</Product Manager>
+    <PTM></PTM>
+    <DA Designer>Diana Graham</DA Designer>
+    <DA AV>Andy Kwok</DA AV>
+  </discipline>
+  <discipline>
+    <Title>Math</Title>
+    <Portfolio>Science, Technology, Math, and Dev Studies</Portfolio>
+    <Product Manager>Rita Lombard</Product Manager>
+    <PTM></PTM>
+    <DA Designer>Diana Graham</DA Designer>
+    <DA AV>Andy Kwok</DA AV>
+  </discipline>
+  <discipline>
+    <Title>Other Math</Title>
+    <Portfolio>Science, Technology, Math, and Dev Studies</Portfolio>
+    <Product Manager>Andy Trus</Product Manager>
+    <PTM></PTM>
+    <DA Designer>Diana Graham</DA Designer>
+    <DA AV>Andy Kwok</DA AV>
+  </discipline>
+  <discipline>
+    <Title>College Success</Title>
+    <Portfolio>Humanities and World Languages</Portfolio>
+    <Product Manager>Sarah Seymour</Product Manager>
+    <PTM></PTM>
+    <DA Designer>Diana Graham</DA Designer>
+    <DA AV>Elyssa Healy</DA AV>
+  </discipline>
+  <discipline>
+    <Title>Intro/Soc Psychology</Title>
+    <Portfolio>Social Sciences and Gale</Portfolio>
+    <Product Manager>Shelby Stewart</Product Manager>
+    <PTM>Starr Burruto</PTM>
+    <DA Designer>Marissa Falco</DA Designer>
+    <DA AV>Stephanie Beach</DA AV>
+  </discipline>
+  <discipline>
+    <Title>Dental Assist</Title>
+    <Portfolio>Qualitative/Quantitative Business and Skills</Portfolio>
+    <Product Manager>Stephen Smith</Product Manager>
+    <PTM></PTM>
+    <DA Designer>Angela Sheehan</DA Designer>
+    <DA AV>Monica Little</DA AV>
+  </discipline>
+  <discipline>
+    <Title>Medical Assist</Title>
+    <Portfolio>Qualitative/Quantitative Business and Skills</Portfolio>
+    <Product Manager>Stephen Smith</Product Manager>
+    <PTM></PTM>
+    <DA Designer>Angela Sheehan</DA Designer>
+    <DA AV>Monica Little</DA AV>
+  </discipline>
+  <discipline>
+    <Title>Pharmacy Tech</Title>
+    <Portfolio>Qualitative/Quantitative Business and Skills</Portfolio>
+    <Product Manager>Stephen Smith</Product Manager>
+    <PTM></PTM>
+    <DA Designer>Angela Sheehan</DA Designer>
+    <DA AV>Monica Little</DA AV>
+  </discipline>
+  <discipline>
+    <Title>Engineering</Title>
+    <Portfolio>Science, Technology, Math, and Dev Studies</Portfolio>
+    <Product Manager>Tim Anderson</Product Manager>
+    <PTM></PTM>
+    <DA Designer>Diana Graham</DA Designer>
+    <DA AV>Andy Kwok</DA AV>
+  </discipline>
+  <discipline>
+    <Title>Construction</Title>
+    <Portfolio>Qualitative/Quantitative Business and Skills</Portfolio>
+    <Product Manager>Vanessa Myers</Product Manager>
+    <PTM></PTM>
+    <DA Designer>Erin Griffin</DA Designer>
+    <DA AV>Monica Little</DA AV>
+  </discipline>
+  <discipline>
+    <Title>DeWalt</Title>
+    <Portfolio>Qualitative/Quantitative Business and Skills</Portfolio>
+    <Product Manager>Vanessa Myers</Product Manager>
+    <PTM></PTM>
+    <DA Designer>Erin Griffin</DA Designer>
+    <DA AV>Monica Little</DA AV>
+  </discipline>
+  <discipline>
+    <Title>Electrical</Title>
+    <Portfolio>Qualitative/Quantitative Business and Skills</Portfolio>
+    <Product Manager>Vanessa Myers</Product Manager>
+    <PTM></PTM>
+    <DA Designer>Erin Griffin</DA Designer>
+    <DA AV>Monica Little</DA AV>
+  </discipline>
+  <discipline>
+    <Title>HVAC</Title>
+    <Portfolio>Qualitative/Quantitative Business and Skills</Portfolio>
+    <Product Manager>Vanessa Myers</Product Manager>
+    <PTM></PTM>
+    <DA Designer>Erin Griffin</DA Designer>
+    <DA AV>Monica Little</DA AV>
+  </discipline>
+  <discipline>
+    <Title>Plumbing</Title>
+    <Portfolio>Qualitative/Quantitative Business and Skills</Portfolio>
+    <Product Manager>Vanessa Myers</Product Manager>
+    <PTM></PTM>
+    <DA Designer>Erin Griffin</DA Designer>
+    <DA AV>Monica Little</DA AV>
+  </discipline>
+  <discipline>
+    <Title>Refrig</Title>
+    <Portfolio>Qualitative/Quantitative Business and Skills</Portfolio>
+    <Product Manager>Vanessa Myers</Product Manager>
+    <PTM></PTM>
+    <DA Designer>Erin Griffin</DA Designer>
+    <DA AV>Monica Little</DA AV>
+  </discipline>
+  <discipline>
+    <Title>Art</Title>
+    <Portfolio>Humanities and World Languages</Portfolio>
+    <Product Manager>Vanessa S. Coloura</Product Manager>
+    <PTM></PTM>
+    <DA Designer>Sarah Cole </DA Designer>
+    <DA AV>Elyssa Healy</DA AV>
+  </discipline>
+  <discipline>
+    <Title>Business Law</Title>
+    <Portfolio>Qualitative/Quantitative Business and Skills</Portfolio>
+    <Product Manager>Vicky True</Product Manager>
+    <PTM></PTM>
+    <DA Designer>Chris Doughman</DA Designer>
+    <DA AV>Monica Little</DA AV>
+  </discipline>
+</disciplines>

@@ -1,0 +1,23 @@
+
+srdb/
+DB/
+README.md
+.DS_Store
+thumbs.db
+
+/public_html
+.env*
+.htaccess
+docker-compose.yml
+
+# Wordpress
+
+/wp_content/themes/twenty**
+/wp-content/plugins
+/wp-content/mu-plugins
+/wp-content/upgrade*
+/wp-content/wflogs
+/wp-content/ai1wm-backups
+/wp-content/index.php
+
+wp-content/themes/cstudio/_src

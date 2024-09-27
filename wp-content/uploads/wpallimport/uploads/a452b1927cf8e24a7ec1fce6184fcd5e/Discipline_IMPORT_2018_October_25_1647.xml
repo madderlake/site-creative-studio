@@ -1,0 +1,777 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>Hayne, Mary A [CS]</Author>
+  <LastAuthor>Hayne, Mary A [CS]</LastAuthor>
+  <Created>2018-10-25T17:40:59Z</Created>
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>16940</WindowHeight>
+  <WindowWidth>27640</WindowWidth>
+  <WindowTopX>11980</WindowTopX>
+  <WindowTopY>5960</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="12" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Discipline-IMPORT-2018-October-">
+  <Table ss:ExpandedColumnCount="7" ss:ExpandedRowCount="102" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultColumnWidth="65" ss:DefaultRowHeight="16">
+   <Column ss:Index="4" ss:AutoFitWidth="0" ss:Width="141"/>
+   <Row>
+    <Cell><Data ss:Type="String">id</Data></Cell>
+    <Cell><Data ss:Type="String">Title</Data></Cell>
+    <Cell><Data ss:Type="String">Portfolio</Data></Cell>
+    <Cell><Data ss:Type="String">Product Manager</Data></Cell>
+    <Cell><Data ss:Type="String">PTM</Data></Cell>
+    <Cell><Data ss:Type="String">DA Designer</Data></Cell>
+    <Cell><Data ss:Type="String">DA AV</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">Blueprint</Data></Cell>
+    <Cell><Data ss:Type="String">Qualitative/Quantitative Business and Skills</Data></Cell>
+    <Cell><Data ss:Type="String">Abby Schultheis</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">Erin Griffin</Data></Cell>
+    <Cell><Data ss:Type="String">Monica Little</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">Career Success</Data></Cell>
+    <Cell><Data ss:Type="String">Qualitative/Quantitative Business and Skills</Data></Cell>
+    <Cell><Data ss:Type="String">Abby Schultheis</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">Erin Griffin</Data></Cell>
+    <Cell><Data ss:Type="String">Monica Little</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">Drafting-Engineering</Data></Cell>
+    <Cell><Data ss:Type="String">Qualitative/Quantitative Business and Skills</Data></Cell>
+    <Cell><Data ss:Type="String">Abby Schultheis</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">Erin Griffin</Data></Cell>
+    <Cell><Data ss:Type="String">Monica Little</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">Harvest Lists</Data></Cell>
+    <Cell><Data ss:Type="String">Qualitative/Quantitative Business and Skills</Data></Cell>
+    <Cell><Data ss:Type="String">Abby Schultheis</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">Erin Griffin</Data></Cell>
+    <Cell><Data ss:Type="String">Monica Little</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">Paralegal</Data></Cell>
+    <Cell><Data ss:Type="String">Qualitative/Quantitative Business and Skills</Data></Cell>
+    <Cell><Data ss:Type="String">Abby Schultheis</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">Erin Griffin</Data></Cell>
+    <Cell><Data ss:Type="String">Monica Little</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">Bus Math</Data></Cell>
+    <Cell><Data ss:Type="String">Qualitative/Quantitative Business and Skills</Data></Cell>
+    <Cell><Data ss:Type="String">Aaron Arnsparger</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">Chris Doughman</Data></Cell>
+    <Cell><Data ss:Type="String">Monica Little</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">Bus Stats</Data></Cell>
+    <Cell><Data ss:Type="String">Qualitative/Quantitative Business and Skills</Data></Cell>
+    <Cell><Data ss:Type="String">Aaron Arnsparger</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">Chris Doughman</Data></Cell>
+    <Cell><Data ss:Type="String">Monica Little</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">Decision Sci</Data></Cell>
+    <Cell><Data ss:Type="String">Qualitative/Quantitative Business and Skills</Data></Cell>
+    <Cell><Data ss:Type="String">Aaron Arnsparger</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">Chris Doughman</Data></Cell>
+    <Cell><Data ss:Type="String">Monica Little</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">Comp Concepts</Data></Cell>
+    <Cell><Data ss:Type="String">Qualitative/Quantitative Business and Skills</Data></Cell>
+    <Cell><Data ss:Type="String">Amanda Lyons</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">Lizz Anderson</Data></Cell>
+    <Cell><Data ss:Type="String">Monica Little</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">InfoSec</Data></Cell>
+    <Cell><Data ss:Type="String">Qualitative/Quantitative Business and Skills</Data></Cell>
+    <Cell><Data ss:Type="String">Amy Savino</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">Erin Griffin</Data></Cell>
+    <Cell><Data ss:Type="String">Monica Little</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">IT</Data></Cell>
+    <Cell><Data ss:Type="String">Qualitative/Quantitative Business and Skills</Data></Cell>
+    <Cell><Data ss:Type="String">Amy Savino</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">Erin Griffin</Data></Cell>
+    <Cell><Data ss:Type="String">Monica Little</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">Networking</Data></Cell>
+    <Cell><Data ss:Type="String">Qualitative/Quantitative Business and Skills</Data></Cell>
+    <Cell><Data ss:Type="String">Amy Savino</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">Erin Griffin</Data></Cell>
+    <Cell><Data ss:Type="String">Monica Little</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">Life Span Psychology</Data></Cell>
+    <Cell><Data ss:Type="String">Social Sciences and Gale</Data></Cell>
+    <Cell><Data ss:Type="String">Andrew Ginsberg</Data></Cell>
+    <Cell><Data ss:Type="String">Starr Burruto</Data></Cell>
+    <Cell><Data ss:Type="String">Marissa Falco</Data></Cell>
+    <Cell><Data ss:Type="String">Stephanie Beach</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">Sociology</Data></Cell>
+    <Cell><Data ss:Type="String">Social Sciences and Gale</Data></Cell>
+    <Cell><Data ss:Type="String">Ava Fruin</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">Marissa Falco</Data></Cell>
+    <Cell><Data ss:Type="String">Stephanie Beach</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">Radio/TV/Film</Data></Cell>
+    <Cell><Data ss:Type="String">Social Sciences and Gale</Data></Cell>
+    <Cell><Data ss:Type="String">Carolyn Lewis</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">Marissa Falco</Data></Cell>
+    <Cell><Data ss:Type="String">Stephanie Beach</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">Speech</Data></Cell>
+    <Cell><Data ss:Type="String">Social Sciences and Gale</Data></Cell>
+    <Cell><Data ss:Type="String">Carolyn Lewis</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">Marissa Falco</Data></Cell>
+    <Cell><Data ss:Type="String">Stephanie Beach</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">Theatre</Data></Cell>
+    <Cell><Data ss:Type="String">Social Sciences and Gale</Data></Cell>
+    <Cell><Data ss:Type="String">Carolyn Lewis</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">Marissa Falco</Data></Cell>
+    <Cell><Data ss:Type="String">Stephanie Beach</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">Statistics</Data></Cell>
+    <Cell><Data ss:Type="String">Science, Technology, Math, and Dev Studies</Data></Cell>
+    <Cell><Data ss:Type="String">Catherine Van Der Laan</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">Diana Graham</Data></Cell>
+    <Cell><Data ss:Type="String">Andy Kwok</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">Accounting</Data></Cell>
+    <Cell><Data ss:Type="String">Qualitative/Quantitative Business and Skills</Data></Cell>
+    <Cell><Data ss:Type="String">Chris Rader</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">Bethany Bourgeois</Data></Cell>
+    <Cell><Data ss:Type="String">Monica Little</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">CS</Data></Cell>
+    <Cell><Data ss:Type="String">Qualitative/Quantitative Business and Skills</Data></Cell>
+    <Cell><Data ss:Type="String">Chris Shortt</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">Erin Griffin</Data></Cell>
+    <Cell><Data ss:Type="String">Monica Little</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">MAD</Data></Cell>
+    <Cell><Data ss:Type="String">Qualitative/Quantitative Business and Skills</Data></Cell>
+    <Cell><Data ss:Type="String">Chris Shortt</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">Erin Griffin</Data></Cell>
+    <Cell><Data ss:Type="String">Monica Little</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">Programming</Data></Cell>
+    <Cell><Data ss:Type="String">Qualitative/Quantitative Business and Skills</Data></Cell>
+    <Cell><Data ss:Type="String">Chris Shortt</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">Erin Griffin</Data></Cell>
+    <Cell><Data ss:Type="String">Monica Little</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">Web</Data></Cell>
+    <Cell><Data ss:Type="String">Qualitative/Quantitative Business and Skills</Data></Cell>
+    <Cell><Data ss:Type="String">Chris Shortt</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">Erin Griffin</Data></Cell>
+    <Cell><Data ss:Type="String">Monica Little</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">Education/ECE</Data></Cell>
+    <Cell><Data ss:Type="String">Social Sciences and Gale</Data></Cell>
+    <Cell><Data ss:Type="String">Colin Grover</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">Helen Bruno</Data></Cell>
+    <Cell><Data ss:Type="String">Stephanie Beach</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">Fitness</Data></Cell>
+    <Cell><Data ss:Type="String">Science, Technology, Math, and Dev Studies</Data></Cell>
+    <Cell><Data ss:Type="String">Courtney Heilman</Data></Cell>
+    <Cell><Data ss:Type="String">Kelsey Churchman</Data></Cell>
+    <Cell><Data ss:Type="String">Helen Bruno</Data></Cell>
+    <Cell><Data ss:Type="String">Andy Kwok</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">Wellness/ Nutrition</Data></Cell>
+    <Cell><Data ss:Type="String">Science, Technology, Math, and Dev Studies</Data></Cell>
+    <Cell><Data ss:Type="String">Courtney Heilman</Data></Cell>
+    <Cell><Data ss:Type="String">Kelsey Churchman</Data></Cell>
+    <Cell><Data ss:Type="String">Helen Bruno</Data></Cell>
+    <Cell><Data ss:Type="String">Andy Kwok</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">Dev Math</Data></Cell>
+    <Cell><Data ss:Type="String">Science, Technology, Math, and Dev Studies</Data></Cell>
+    <Cell><Data ss:Type="String">Spencer Arritt</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">Diana Graham</Data></Cell>
+    <Cell><Data ss:Type="String">Andy Kwok</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">Calculus</Data></Cell>
+    <Cell><Data ss:Type="String">Science, Technology, Math, and Dev Studies</Data></Cell>
+    <Cell><Data ss:Type="String">Gary Whalen</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">Diana Graham</Data></Cell>
+    <Cell><Data ss:Type="String">Andy Kwok</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">Pre-Calc</Data></Cell>
+    <Cell><Data ss:Type="String">Science, Technology, Math, and Dev Studies</Data></Cell>
+    <Cell><Data ss:Type="String">Gary Whalen</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">Diana Graham</Data></Cell>
+    <Cell><Data ss:Type="String">Andy Kwok</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">World Languages</Data></Cell>
+    <Cell><Data ss:Type="String">Humanities and World Languages</Data></Cell>
+    <Cell><Data ss:Type="String">Heather Bradley-Cole</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">Sarah Cole </Data></Cell>
+    <Cell><Data ss:Type="String">Elyssa Healy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">Biz Com</Data></Cell>
+    <Cell><Data ss:Type="String">Qualitative/Quantitative Business and Skills</Data></Cell>
+    <Cell><Data ss:Type="String">Heather Mooney</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">Bethany Bourgeois</Data></Cell>
+    <Cell><Data ss:Type="String">Monica Little</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">Intro Biz </Data></Cell>
+    <Cell><Data ss:Type="String">Qualitative/Quantitative Business and Skills</Data></Cell>
+    <Cell><Data ss:Type="String">Heather Mooney</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">Bethany Bourgeois</Data></Cell>
+    <Cell><Data ss:Type="String">Monica Little</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">Marketing</Data></Cell>
+    <Cell><Data ss:Type="String">Qualitative/Quantitative Business and Skills</Data></Cell>
+    <Cell><Data ss:Type="String">Heather Mooney</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">Bethany Bourgeois</Data></Cell>
+    <Cell><Data ss:Type="String">Monica Little</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">Upper Level Chemistry</Data></Cell>
+    <Cell><Data ss:Type="String">Science, Technology, Math, and Dev Studies</Data></Cell>
+    <Cell><Data ss:Type="String">Helene Alfaro</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">Marissa Falco</Data></Cell>
+    <Cell><Data ss:Type="String">Andy Kwok</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">MIS</Data></Cell>
+    <Cell><Data ss:Type="String">Qualitative/Quantitative Business and Skills</Data></Cell>
+    <Cell><Data ss:Type="String">Jaymie Falconi</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">Lizz Anderson</Data></Cell>
+    <Cell><Data ss:Type="String">Monica Little</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">U.S. Hist </Data></Cell>
+    <Cell><Data ss:Type="String">Humanities and World Languages</Data></Cell>
+    <Cell><Data ss:Type="String">Joe Potvin</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">Sarah Cole </Data></Cell>
+    <Cell><Data ss:Type="String">Elyssa Healy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">Western Civ</Data></Cell>
+    <Cell><Data ss:Type="String">Humanities and World Languages</Data></Cell>
+    <Cell><Data ss:Type="String">Joe Potvin</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">Sarah Cole </Data></Cell>
+    <Cell><Data ss:Type="String">Elyssa Healy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">World Hist</Data></Cell>
+    <Cell><Data ss:Type="String">Humanities and World Languages</Data></Cell>
+    <Cell><Data ss:Type="String">Joe Potvin</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">Sarah Cole </Data></Cell>
+    <Cell><Data ss:Type="String">Elyssa Healy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">Finance</Data></Cell>
+    <Cell><Data ss:Type="String">Qualitative/Quantitative Business and Skills</Data></Cell>
+    <Cell><Data ss:Type="String">Joe Sabatino</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">Chris Doughman</Data></Cell>
+    <Cell><Data ss:Type="String">Monica Little</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">Taxation</Data></Cell>
+    <Cell><Data ss:Type="String">Qualitative/Quantitative Business and Skills</Data></Cell>
+    <Cell><Data ss:Type="String">Jonathan Gross</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">Chris Doughman</Data></Cell>
+    <Cell><Data ss:Type="String">Monica Little</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">Criminal Justice</Data></Cell>
+    <Cell><Data ss:Type="String">Social Sciences and Gale</Data></Cell>
+    <Cell><Data ss:Type="String">Joshua Parrot</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">Helen Bruno</Data></Cell>
+    <Cell><Data ss:Type="String">Stephanie Beach</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">Counseling</Data></Cell>
+    <Cell><Data ss:Type="String">Social Sciences and Gale</Data></Cell>
+    <Cell><Data ss:Type="String">Julie Martinez</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">Marissa Falco</Data></Cell>
+    <Cell><Data ss:Type="String">Stephanie Beach</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">Social Work</Data></Cell>
+    <Cell><Data ss:Type="String">Social Sciences and Gale</Data></Cell>
+    <Cell><Data ss:Type="String">Julie Martinez</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">Marissa Falco</Data></Cell>
+    <Cell><Data ss:Type="String">Stephanie Beach</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">Milady</Data></Cell>
+    <Cell><Data ss:Type="String">Qualitative/Quantitative Business and Skills</Data></Cell>
+    <Cell><Data ss:Type="String">Kara Melillo</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">Jack Pendleton</Data></Cell>
+    <Cell><Data ss:Type="String">Monica Little</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">Biology</Data></Cell>
+    <Cell><Data ss:Type="String">Science, Technology, Math, and Dev Studies</Data></Cell>
+    <Cell><Data ss:Type="String">Katherine Caudill-Rios </Data></Cell>
+    <Cell><Data ss:Type="String">Kelsey Churchman</Data></Cell>
+    <Cell><Data ss:Type="String">Helen Bruno</Data></Cell>
+    <Cell><Data ss:Type="String">Andy Kwok</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">Automotive</Data></Cell>
+    <Cell><Data ss:Type="String">Qualitative/Quantitative Business and Skills</Data></Cell>
+    <Cell><Data ss:Type="String">Katie McGuire</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">Angela Sheehan</Data></Cell>
+    <Cell><Data ss:Type="String">Monica Little</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">Machining</Data></Cell>
+    <Cell><Data ss:Type="String">Qualitative/Quantitative Business and Skills</Data></Cell>
+    <Cell><Data ss:Type="String">Katie McGuire</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">Angela Sheehan</Data></Cell>
+    <Cell><Data ss:Type="String">Monica Little</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">Process Tech</Data></Cell>
+    <Cell><Data ss:Type="String">Qualitative/Quantitative Business and Skills</Data></Cell>
+    <Cell><Data ss:Type="String">Katie McGuire</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">Angela Sheehan</Data></Cell>
+    <Cell><Data ss:Type="String">Monica Little</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">Robotics</Data></Cell>
+    <Cell><Data ss:Type="String">Qualitative/Quantitative Business and Skills</Data></Cell>
+    <Cell><Data ss:Type="String">Katie McGuire</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">Angela Sheehan</Data></Cell>
+    <Cell><Data ss:Type="String">Monica Little</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">Welding</Data></Cell>
+    <Cell><Data ss:Type="String">Qualitative/Quantitative Business and Skills</Data></Cell>
+    <Cell><Data ss:Type="String">Katie McGuire</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">Angela Sheehan</Data></Cell>
+    <Cell><Data ss:Type="String">Monica Little</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">Anthropology</Data></Cell>
+    <Cell><Data ss:Type="String">Social Sciences and Gale</Data></Cell>
+    <Cell><Data ss:Type="String">Kori Alexander</Data></Cell>
+    <Cell><Data ss:Type="String">Laura Ross</Data></Cell>
+    <Cell><Data ss:Type="String">Marissa Falco</Data></Cell>
+    <Cell><Data ss:Type="String">Stephanie Beach</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">Lit</Data></Cell>
+    <Cell><Data ss:Type="String">Social Sciences and Gale</Data></Cell>
+    <Cell><Data ss:Type="String">Kori Alexander</Data></Cell>
+    <Cell><Data ss:Type="String">Laura Ross</Data></Cell>
+    <Cell><Data ss:Type="String">Marissa Falco</Data></Cell>
+    <Cell><Data ss:Type="String">Stephanie Beach</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">Mass Comm</Data></Cell>
+    <Cell><Data ss:Type="String">Social Sciences and Gale</Data></Cell>
+    <Cell><Data ss:Type="String">Kori Alexander</Data></Cell>
+    <Cell><Data ss:Type="String">Laura Ross</Data></Cell>
+    <Cell><Data ss:Type="String">Marissa Falco</Data></Cell>
+    <Cell><Data ss:Type="String">Stephanie Beach</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">Music</Data></Cell>
+    <Cell><Data ss:Type="String">Humanities and World Languages</Data></Cell>
+    <Cell><Data ss:Type="String">Kori Alexander</Data></Cell>
+    <Cell><Data ss:Type="String">Laura Ross</Data></Cell>
+    <Cell><Data ss:Type="String">Marissa Falco</Data></Cell>
+    <Cell><Data ss:Type="String">Elyssa Healy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">Philosophy</Data></Cell>
+    <Cell><Data ss:Type="String">Humanities and World Languages</Data></Cell>
+    <Cell><Data ss:Type="String">Kori Alexander</Data></Cell>
+    <Cell><Data ss:Type="String">Laura Ross</Data></Cell>
+    <Cell><Data ss:Type="String">Marissa Falco</Data></Cell>
+    <Cell><Data ss:Type="String">Elyssa Healy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">Religion</Data></Cell>
+    <Cell><Data ss:Type="String">Humanities and World Languages</Data></Cell>
+    <Cell><Data ss:Type="String">Kori Alexander</Data></Cell>
+    <Cell><Data ss:Type="String">Laura Ross</Data></Cell>
+    <Cell><Data ss:Type="String">Marissa Falco</Data></Cell>
+    <Cell><Data ss:Type="String">Elyssa Healy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">Basic Health Sciences</Data></Cell>
+    <Cell><Data ss:Type="String">Qualitative/Quantitative Business and Skills</Data></Cell>
+    <Cell><Data ss:Type="String">Laura Stewart</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">Angela Sheehan</Data></Cell>
+    <Cell><Data ss:Type="String">Monica Little</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">Nursing Assist</Data></Cell>
+    <Cell><Data ss:Type="String">Qualitative/Quantitative Business and Skills</Data></Cell>
+    <Cell><Data ss:Type="String">Laura Stewart</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">Angela Sheehan</Data></Cell>
+    <Cell><Data ss:Type="String">Monica Little</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">Sports Med</Data></Cell>
+    <Cell><Data ss:Type="String">Qualitative/Quantitative Business and Skills</Data></Cell>
+    <Cell><Data ss:Type="String">Laura Stewart</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">Angela Sheehan</Data></Cell>
+    <Cell><Data ss:Type="String">Monica Little</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">Environmental Science</Data></Cell>
+    <Cell><Data ss:Type="String">Science, Technology, Math, and Dev Studies</Data></Cell>
+    <Cell><Data ss:Type="String">Lauren Bakker</Data></Cell>
+    <Cell><Data ss:Type="String">Kelsey Churchman</Data></Cell>
+    <Cell><Data ss:Type="String">Helen Bruno</Data></Cell>
+    <Cell><Data ss:Type="String">Andy Kwok</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">Astronomy</Data></Cell>
+    <Cell><Data ss:Type="String">Science, Technology, Math, and Dev Studies</Data></Cell>
+    <Cell><Data ss:Type="String">Lauren Bakker</Data></Cell>
+    <Cell><Data ss:Type="String">Kelsey Churchman</Data></Cell>
+    <Cell><Data ss:Type="String">Helen Bruno</Data></Cell>
+    <Cell><Data ss:Type="String">Andy Kwok</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">Health Admin &amp; Mgmt</Data></Cell>
+    <Cell><Data ss:Type="String">Qualitative/Quantitative Business and Skills</Data></Cell>
+    <Cell><Data ss:Type="String">Lauren Whalen</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">Angela Sheehan</Data></Cell>
+    <Cell><Data ss:Type="String">Monica Little</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">Health Info Mgmt</Data></Cell>
+    <Cell><Data ss:Type="String">Qualitative/Quantitative Business and Skills</Data></Cell>
+    <Cell><Data ss:Type="String">Lauren Whalen</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">Angela Sheehan</Data></Cell>
+    <Cell><Data ss:Type="String">Monica Little</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">Med Ins &amp; Coding</Data></Cell>
+    <Cell><Data ss:Type="String">Qualitative/Quantitative Business and Skills</Data></Cell>
+    <Cell><Data ss:Type="String">Lauren Whalen</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">Angela Sheehan</Data></Cell>
+    <Cell><Data ss:Type="String">Monica Little</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">Med Trans</Data></Cell>
+    <Cell><Data ss:Type="String">Qualitative/Quantitative Business and Skills</Data></Cell>
+    <Cell><Data ss:Type="String">Lauren Whalen</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">Angela Sheehan</Data></Cell>
+    <Cell><Data ss:Type="String">Monica Little</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">Surg Tech</Data></Cell>
+    <Cell><Data ss:Type="String">Qualitative/Quantitative Business and Skills</Data></Cell>
+    <Cell><Data ss:Type="String">Lauren Whalen</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">Angela Sheehan</Data></Cell>
+    <Cell><Data ss:Type="String">Monica Little</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">Illus</Data></Cell>
+    <Cell><Data ss:Type="String">Qualitative/Quantitative Business and Skills</Data></Cell>
+    <Cell><Data ss:Type="String">(open)</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">Lizz Anderson</Data></Cell>
+    <Cell><Data ss:Type="String">Monica Little</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">New Perspectives</Data></Cell>
+    <Cell><Data ss:Type="String">Qualitative/Quantitative Business and Skills</Data></Cell>
+    <Cell><Data ss:Type="String">(open)</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">Lizz Anderson</Data></Cell>
+    <Cell><Data ss:Type="String">Monica Little</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">Accounting</Data></Cell>
+    <Cell><Data ss:Type="String">Qualitative/Quantitative Business and Skills</Data></Cell>
+    <Cell><Data ss:Type="String">Matt Fillimonov/John Barans</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">Chris Doughman</Data></Cell>
+    <Cell><Data ss:Type="String">Monica Little</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">General Chemistry</Data></Cell>
+    <Cell><Data ss:Type="String">Science, Technology, Math, and Dev Studies</Data></Cell>
+    <Cell><Data ss:Type="String">Maureen McLaughlin</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">Marissa Falco</Data></Cell>
+    <Cell><Data ss:Type="String">Andy Kwok</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">HR</Data></Cell>
+    <Cell><Data ss:Type="String">Qualitative/Quantitative Business and Skills</Data></Cell>
+    <Cell><Data ss:Type="String">Michael Giffen</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">Bethany Bourgeois</Data></Cell>
+    <Cell><Data ss:Type="String">Monica Little</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">Management</Data></Cell>
+    <Cell><Data ss:Type="String">Qualitative/Quantitative Business and Skills</Data></Cell>
+    <Cell><Data ss:Type="String">Michael Giffen</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">Bethany Bourgeois</Data></Cell>
+    <Cell><Data ss:Type="String">Monica Little</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">Economics</Data></Cell>
+    <Cell><Data ss:Type="String">Qualitative/Quantitative Business and Skills</Data></Cell>
+    <Cell><Data ss:Type="String">Michael Parthenakis/Kate Hunt</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">Bethany Bourgeois</Data></Cell>
+    <Cell><Data ss:Type="String">Monica Little</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">4LTR Brand Lead</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Mike Shenk</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">Bethany Bourgeois</Data></Cell>
+    <Cell><Data ss:Type="String">Stephanie Beach</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">Accessibility Specialist</Data></Cell>
+    <Cell><Data ss:Type="String">n/a</Data></Cell>
+    <Cell><Data ss:Type="String">n/a</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">Andrei Pasternak</Data></Cell>
+    <Cell><Data ss:Type="String">n/a</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">Eng Comp</Data></Cell>
+    <Cell><Data ss:Type="String">Social Sciences and Gale</Data></Cell>
+    <Cell><Data ss:Type="String">Nancy Tran</Data></Cell>
+    <Cell><Data ss:Type="String">Laura Ross</Data></Cell>
+    <Cell><Data ss:Type="String">Lizz Anderson</Data></Cell>
+    <Cell><Data ss:Type="String">Stephanie Beach</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">Dev Eng</Data></Cell>
+    <Cell><Data ss:Type="String">Humanities and World Languages</Data></Cell>
+    <Cell><Data ss:Type="String">Nancy Tran</Data></Cell>
+    <Cell><Data ss:Type="String">Laura Ross</Data></Cell>
+    <Cell><Data ss:Type="String">Lizz Anderson</Data></Cell>
+    <Cell><Data ss:Type="String">Elyssa Healy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">Abnormal Psychology</Data></Cell>
+    <Cell><Data ss:Type="String">Social Sciences and Gale</Data></Cell>
+    <Cell><Data ss:Type="String">Elizabeth Swander</Data></Cell>
+    <Cell><Data ss:Type="String">Starr Burruto</Data></Cell>
+    <Cell><Data ss:Type="String">Marissa Falco</Data></Cell>
+    <Cell><Data ss:Type="String">Stephanie Beach</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">Agriscience</Data></Cell>
+    <Cell><Data ss:Type="String">Qualitative/Quantitative Business and Skills</Data></Cell>
+    <Cell><Data ss:Type="String">Nicole Robinson</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">Erin Griffin</Data></Cell>
+    <Cell><Data ss:Type="String">Monica Little</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">SWEP</Data></Cell>
+    <Cell><Data ss:Type="String">Qualitative/Quantitative Business and Skills</Data></Cell>
+    <Cell><Data ss:Type="String">Nicole Robinson</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">Erin Griffin</Data></Cell>
+    <Cell><Data ss:Type="String">Monica Little</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">Physics</Data></Cell>
+    <Cell><Data ss:Type="String">Science, Technology, Math, and Dev Studies</Data></Cell>
+    <Cell><Data ss:Type="String">Nate Thibeault</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">Diana Graham</Data></Cell>
+    <Cell><Data ss:Type="String">Andy Kwok</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">Political Science </Data></Cell>
+    <Cell><Data ss:Type="String">Social Sciences and Gale</Data></Cell>
+    <Cell><Data ss:Type="String">Richard Lena</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">Sarah Cole </Data></Cell>
+    <Cell><Data ss:Type="String">Stephanie Beach</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">Applied Math</Data></Cell>
+    <Cell><Data ss:Type="String">Science, Technology, Math, and Dev Studies</Data></Cell>
+    <Cell><Data ss:Type="String">Jay Campell</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">Diana Graham</Data></Cell>
+    <Cell><Data ss:Type="String">Andy Kwok</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">Advanced Math</Data></Cell>
+    <Cell><Data ss:Type="String">Science, Technology, Math, and Dev Studies</Data></Cell>
+    <Cell><Data ss:Type="String">Rita Lombard</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">Diana Graham</Data></Cell>
+    <Cell><Data ss:Type="String">Andy Kwok</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">Applied Math</Data></Cell>
+    <Cell><Data ss:Type="String">Science, Technology, Math, and Dev Studies</Data></Cell>
+    <Cell><Data ss:Type="String">Rita Lombard</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">Diana Graham</Data></Cell>
+    <Cell><Data ss:Type="String">Andy Kwok</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">Math</Data></Cell>
+    <Cell><Data ss:Type="String">Science, Technology, Math, and Dev Studies</Data></Cell>
+    <Cell><Data ss:Type="String">Rita Lombard</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">Diana Graham</Data></Cell>
+    <Cell><Data ss:Type="String">Andy Kwok</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">Other Math</Data></Cell>
+    <Cell><Data ss:Type="String">Science, Technology, Math, and Dev Studies</Data></Cell>
+    <Cell><Data ss:Type="String">Andy Trus</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">Diana Graham</Data></Cell>
+    <Cell><Data ss:Type="String">Andy Kwok</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">College Success</Data></Cell>
+    <Cell><Data ss:Type="String">Humanities and World Languages</Data></Cell>
+    <Cell><Data ss:Type="String">Sarah Seymour</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">Diana Graham</Data></Cell>
+    <Cell><Data ss:Type="String">Elyssa Healy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">Intro/Soc Psychology</Data></Cell>
+    <Cell><Data ss:Type="String">Social Sciences and Gale</Data></Cell>
+    <Cell><Data ss:Type="String">Shelby Stewart</Data></Cell>
+    <Cell><Data ss:Type="String">Starr Burruto</Data></Cell>
+    <Cell><Data ss:Type="String">Marissa Falco</Data></Cell>
+    <Cell><Data ss:Type="String">Stephanie Beach</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">Dental Assist</Data></Cell>
+    <Cell><Data ss:Type="String">Qualitative/Quantitative Business and Skills</Data></Cell>
+    <Cell><Data ss:Type="String">Stephen Smith</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">Angela Sheehan</Data></Cell>
+    <Cell><Data ss:Type="String">Monica Little</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">Medical Assist</Data></Cell>
+    <Cell><Data ss:Type="String">Qualitative/Quantitative Business and Skills</Data></Cell>
+    <Cell><Data ss:Type="String">Stephen Smith</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">Angela Sheehan</Data></Cell>
+    <Cell><Data ss:Type="String">Monica Little</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">Pharmacy Tech</Data></Cell>
+    <Cell><Data ss:Type="String">Qualitative/Quantitative Business and Skills</Data></Cell>
+    <Cell><Data ss:Type="String">Stephen Smith</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">Angela Sheehan</Data></Cell>
+    <Cell><Data ss:Type="String">Monica Little</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">Engineering</Data></Cell>
+    <Cell><Data ss:Type="String">Science, Technology, Math, and Dev Studies</Data></Cell>
+    <Cell><Data ss:Type="String">Tim Anderson</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">Diana Graham</Data></Cell>
+    <Cell><Data ss:Type="String">Andy Kwok</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">Construction</Data></Cell>
+    <Cell><Data ss:Type="String">Qualitative/Quantitative Business and Skills</Data></Cell>
+    <Cell><Data ss:Type="String">Vanessa Myers</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">Erin Griffin</Data></Cell>
+    <Cell><Data ss:Type="String">Monica Little</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">DeWalt</Data></Cell>
+    <Cell><Data ss:Type="String">Qualitative/Quantitative Business and Skills</Data></Cell>
+    <Cell><Data ss:Type="String">Vanessa Myers</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">Erin Griffin</Data></Cell>
+    <Cell><Data ss:Type="String">Monica Little</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">Electrical</Data></Cell>
+    <Cell><Data ss:Type="String">Qualitative/Quantitative Business and Skills</Data></Cell>
+    <Cell><Data ss:Type="String">Vanessa Myers</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">Erin Griffin</Data></Cell>
+    <Cell><Data ss:Type="String">Monica Little</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">HVAC</Data></Cell>
+    <Cell><Data ss:Type="String">Qualitative/Quantitative Business and Skills</Data></Cell>
+    <Cell><Data ss:Type="String">Vanessa Myers</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">Erin Griffin</Data></Cell>
+    <Cell><Data ss:Type="String">Monica Little</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">Plumbing</Data></Cell>
+    <Cell><Data ss:Type="String">Qualitative/Quantitative Business and Skills</Data></Cell>
+    <Cell><Data ss:Type="String">Vanessa Myers</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">Erin Griffin</Data></Cell>
+    <Cell><Data ss:Type="String">Monica Little</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">Refrig</Data></Cell>
+    <Cell><Data ss:Type="String">Qualitative/Quantitative Business and Skills</Data></Cell>
+    <Cell><Data ss:Type="String">Vanessa Myers</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">Erin Griffin</Data></Cell>
+    <Cell><Data ss:Type="String">Monica Little</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">Art</Data></Cell>
+    <Cell><Data ss:Type="String">Humanities and World Languages</Data></Cell>
+    <Cell><Data ss:Type="String">Vanessa S. Coloura</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">Sarah Cole </Data></Cell>
+    <Cell><Data ss:Type="String">Elyssa Healy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">Business Law</Data></Cell>
+    <Cell><Data ss:Type="String">Qualitative/Quantitative Business and Skills</Data></Cell>
+    <Cell><Data ss:Type="String">Vicky True</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">Chris Doughman</Data></Cell>
+    <Cell><Data ss:Type="String">Monica Little</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <Selected/>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>
