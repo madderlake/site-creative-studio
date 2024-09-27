@@ -21,4 +21,4 @@ docker-compose.yml
 /wp-content/ai1wm-backups
 /wp-content/index.php
 
-wp-content/themes/cstudio/_src
+wp-content/themes/cstudio/_src/node_modules
