@@ -9,6 +9,7 @@ thumbs.db
 .env*
 .htaccess
 docker-compose.yml
+.vscode
 
 # Wordpress
 
