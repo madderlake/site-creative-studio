@@ -1,0 +1,229 @@
+.text-small {
+	font-size: .85rem !important;
+}
+
+.color-white {
+	color: white !important;
+}
+
+.glow-light {
+	@include glow-light;
+}
+.shadow-light {
+	@include shadow-light;
+}
+
+.light-gray-border {
+	border: 1px solid $lightest-gray;
+	//@include shadow-light;
+}
+
+/*Backgrounds*/
+
+.black-bg {
+	background: black !important;
+}
+
+.light-gray-bg {
+	background-color: lighten($lightest-gray, 5%);
+}
+
+.light-blue-bg {
+	background-color: $lt-sky-blue2 !important;
+}
+
+.dark-blue-bg {
+	background-color: $dk-blue !important;
+}
+
+.top-aligned {
+	margin-top:0 !important;
+	padding-top:0 !important;
+	//line-height: 1 !important;
+
+	p {
+		line-height: $line-height-base !important;
+
+		&:first-child {
+			margin-top:0 !important;
+			padding-top:0 !important;
+
+		}
+	}
+}
+
+.sticky-top {
+	position:fixed;
+	top:0;
+	width: 100%;
+
+}
+
+//Flex Hacks for Templates
+
+.justify-center {
+	.row {
+		justify-content: center !important;
+	}
+}
+
+
+
+@keyframes spinner {
+    0% {
+        transform: translate3d(-50%, -50%, 0) rotate(0deg);
+    }
+    100% {
+         transform: translate3d(-50%, -50%, 0) rotate(360deg);
+    }
+}
+.spinner {
+    // The height here is just for demo purposes
+    //height: 100vh;
+    opacity: 1;
+    position: relative;
+    transition: opacity linear 0.1s;
+    &::before {
+        animation: 2s linear infinite spinner;
+        border: solid 3px #eee;
+        border-bottom-color: #EF6565;
+        border-radius: 50%;
+        content: "";
+        height: 80px;
+        left: 50%;
+        opacity: inherit;
+        position: absolute;
+        margin-top: 30vh;
+        transform: translate3d(-50%, -50%, 0);
+        transform-origin: center;
+        width: 80px;
+        will-change: transform;
+    }
+}
+
+.bubble, .bubble-left, .bubble-down {
+	position: relative;
+	width: 100%;
+	//min-height: 40%;
+	height: auto;
+	padding: .5rem 1rem;
+	background: rgba(255,255,255, .725);
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 7px;
+	border-radius: 10px;
+
+
+	p {
+		font-size: .9rem;
+		color: $brand-blue-black;
+	}
+}
+
+.bubble-left:after {
+	content: '';
+	position: absolute;
+	border-style: solid;
+	border-width: 15px 15px 15px 0;
+	border-color: transparent $brand-coral;
+	display: block;
+	width: 0;
+	z-index: 1;
+	left: -15px;
+	top:35%;
+
+	@include media-breakpoint-down(sm){
+
+		bottom: -15px;
+		left: 45%;
+		border-width: 15px 15px 0;
+		border-color: $brand-coral transparent;
+		top: 100%;
+
+	}
+}
+
+.bubble-down:after {
+	content: '';
+	position: absolute;
+	border-style: solid;
+	border-width: 15px 15px 0;
+	border-color: $brand-coral transparent;
+	display: block;
+	width: 0;
+	z-index: 1;
+	bottom: -15px;
+	left: 45%;
+
+
+
+}
+
+/*
+.bubble-border:before
+{
+	content: '';
+	position: absolute;
+	border-style: solid;
+	border-width: 15px 15px 15px 0;
+	border-color: transparent $brand-coral;
+	display: block;
+	width: 0;
+	z-index: 0;
+	left: -16px;
+	top: 45px;
+}
+*/
+.numberCircle {
+    border-radius: 50%;
+    //behavior: url(PIE.htc); /* remove if you don't care about IE8 */
+	display: inline-block;
+    width: 2.5rem;
+    height: 2.5rem;
+    //padding: 8px;
+
+    background: $brand-blue-black;
+    color: white;
+    text-align: center;
+	line-height: .9;
+    font-size: 1.5em;
+
+	p {
+		margin: 0;
+	}
+}
+
+//Responsive
+
+.center-on-small {
+	@include media-breakpoint-down(xs) {
+
+		text-align: center !important;
+	}
+}
+//Gradients
+
+.blue-diag-gradient {
+
+	background: #00263e; /* Old browsers */
+	background: -moz-linear-gradient(-45deg, #00263e 1%, #0085ca 47%, #0085ca 58%, #00263e 100%, #00263e 100%); /* FF3.6-15 */
+	background: -webkit-linear-gradient(-45deg, #00263e 1%,#0085ca 47%,#0085ca 58%,#00263e 100%,#00263e 100%); /* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(135deg, #00263e 1%,#0085ca 47%,#0085ca 58%,#00263e 100%,#00263e 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00263e', endColorstr='#00263e',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+}
+
+
+
+.green-diag-gradient {
+	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#5c8216+1,90b82e+100 */
+	background: #5c8216; /* Old browsers */
+	background: -moz-linear-gradient(45deg, #5c8216 1%, #90b82e 100%); /* FF3.6-15 */
+	background: -webkit-linear-gradient(45deg, #5c8216 1%,#90b82e 100%); /* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(45deg, #5c8216 1%,#90b82e 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#5c8216', endColorstr='#90b82e',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+}
+
+
+.lt-blue-wht-diag-gradient {
+	@include lt-blue-wht-diag-gradient;
+}
+

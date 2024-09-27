@@ -1,0 +1,5 @@
+.col-wrap {
+	@include media-breakpoint-up(sm){
+		display: flex;
+	}
+}

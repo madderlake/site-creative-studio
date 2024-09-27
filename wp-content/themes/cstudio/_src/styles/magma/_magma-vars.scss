@@ -1,0 +1,192 @@
+
+//Colors
+
+$brand-coral: #ff5858;
+$brand-blue: #0085ca;
+$brand-blue-black: #00263e;
+$brand-dk-gray:  #3f3f3f;
+$brand-lt-gray: #f7f7f7;
+$white: #ffffff;
+
+$dk-blue: #003865;
+$sky-blue: #00a9e0;
+$charcoal: #575757;
+$med-gray: #7a7a7a;
+$med-lt-gray: #bfbfbf;
+$lt-gray: #dfdfdf;
+$med-blue: #006298;
+$lt-sky-blue: #71c5e8;
+$lt-sky-blue2: #87d6f8;
+$lt-gray2: #d0d3d4;
+$dk-grass: #5c8216;
+$med-grass: #6f9823;
+$grass: #90b82e;
+$rust: #c1510a;
+$orange: #fa6600;
+$honey: #f2a900;
+$true-red: #ef0000;
+$lightest-gray: #ececec;
+$magenta: #e0004d;
+$ochre: #ffc72c;
+
+
+// primary colors
+$primary01: $brand-dk-gray;
+$primary02: $brand-blue;
+$primary03: $brand-lt-gray;
+$primary04: $white;
+$primary05: $brand-blue-black;
+
+// secondary colors
+$secondary01: $dk-blue;
+$secondary02: $sky-blue;
+$secondary03: $charcoal;
+$secondary04: $med-gray;
+$secondary05: $med-lt-gray;
+$secondary06: $lt-gray;
+$secondary07: $med-blue;
+$secondary08: $lt-sky-blue;
+$secondary09: $lt-sky-blue2;
+$secondary10: $lt-gray2;
+
+// accent colors
+$accent01: $dk-grass;
+$accent02: $med-grass;
+$accent03: $grass;
+$accent04: $rust;
+$accent05: $orange;
+$accent06: $honey;
+
+// limited colors
+$limited01: $true-red;
+$limited02: $brand-coral;
+$limited03: $lightest-gray;
+$limited04: $magenta;
+$limited05: $ochre;
+
+// context-specific variables
+$brand-primary: $primary02;
+$brand-success: $accent02;
+$brand-info: $secondary02;
+$brand-warning: $accent05;
+$brand-danger: $limited01;
+$text-color: $primary01;
+
+//$link-color: $primary02;
+$link-color: $secondary02 !default;
+$headings-color: $primary02  !default;
+$headings-color: $secondary02 !default;
+$component-active-bg: $primary03 !default;
+$code-color:$primary01 !default;
+$code-bg:$secondary06 !default;
+
+
+//== Forms
+$input-border-focus: $accent03;
+
+//== Jumbotron
+$jumbotron-bg: $secondary01;
+$jumbotron-color: $primary04;
+
+//== Navbar
+$navbar-inverse-bg: #f7f7f7;
+$navbar-inverse-color: #3f3f3f;
+$navbar-margin-bottom: 0;
+
+$modal-backdrop-bg: #ccc;
+$nav-pills-active-link-hover-color: #000;
+
+//== States
+$state-success-text: $accent01;
+$state-success-bg: lighten($brand-success, 45);
+$state-success-border: $brand-success;
+$state-info-text: $brand-info;
+$state-info-bg: lighten($brand-info, 40);
+$state-info-border: $brand-info;
+$state-warning-text: $brand-warning;
+$state-warning-bg: lighten($brand-warning, 40);
+$state-warning-border: $brand-warning;
+$state-danger-text: #f00;
+$state-danger-bg: lighten($brand-danger, 25);
+$state-danger-border: $brand-danger;
+
+//== Alerts
+$alert-success-text: #fff;
+$alert-success-bg: $brand-success;
+$alert-success-border: darken(adjust-hue($alert-success-bg, -10), 5%);
+$alert-info-text: #fff;
+$alert-info-bg: $brand-info;
+$alert-info-border: darken(adjust-hue($alert-info-bg, -10), 7%);
+$alert-warning-text: #fff;
+$alert-warning-bg: $brand-warning;
+$alert-warning-border: darken(adjust-hue($alert-warning-bg, -10), 5%);
+$alert-danger-text: #fff;
+$alert-danger-bg: $brand-danger;
+$alert-danger-border: darken(adjust-hue($alert-danger-bg, -10), 5%);
+
+.close {
+  opacity: 1;
+}
+
+//== Progress
+.progress{border-radius:0}
+
+.novisual,
+.novisual p,
+.novisual li,
+.novisual span {
+  text-indent: 300%;
+  white-space: nowrap;
+  overflow: hidden !important;
+  position: absolute !important;
+  width: 1px !important;
+  height: 1px;
+  padding: 0;
+  margin: 0;
+}
+.magma-specific {
+  border: 5px solid $brand-primary;
+  padding: 12px;
+}
+.magma-specific:before {
+  content: "Magma Specific";
+  color: #fff;
+  background-color: $brand-primary;
+  padding: 4px;
+  margin: -12px -12px 12px -12px;
+  display: block;
+}
+
+//sc-home
+.sc-home-wrapper {
+  background-color: #F3F3F3;
+  padding: 30px 40px;
+  //@include clearfix();
+
+  .sc-home-item {
+    background-color: #fff;
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid #ECECEC;
+  }
+  h2 {
+    margin: 0;
+    padding: 0 0 4px 0;
+  }
+  h4 {
+    margin: 0;
+    padding: 0;
+    color: #959595;
+  }
+  ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+
+    li {
+      color: #959595;
+    }
+  }
+}
+
+.color-swatch { margin: 5px; }

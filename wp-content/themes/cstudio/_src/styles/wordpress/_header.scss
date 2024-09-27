@@ -1,0 +1,133 @@
+#wpadminbar {
+	//display: none;
+}
+nav {
+	//margin-bottom: 3em;
+
+	padding: 1rem;
+	background: white;
+
+	@include media-breakpoint-up(md) {
+		box-shadow: 0 8px 3px -3px rgba(0,0,0, .05);
+	}
+
+	&.navbar {
+
+		padding: .75rem 1rem;
+
+
+	}
+
+
+	&.fixed-top {
+		z-index: 2000;
+	}
+}
+
+.navbar-light .navbar-nav {
+	.nav-link{
+		color: $med-gray;
+		font-size: .8rem;
+	}
+}
+
+
+
+@include media-breakpoint-down(md) {
+
+	.navbar-toggler-right {
+		margin-left: 90%;
+		position: relative;
+	}
+
+	.navbar-light .navbar-toggler {
+		border: none;
+	}
+	.nav {
+		background: none;
+	}
+
+
+	.navbar-nav {
+		text-align: center;
+		padding-bottom: 2rem;
+		@include shadow-light;
+
+		@media (min-width: 992px) {
+			margin-left: 10.5rem;
+		}
+
+		@media (min-width: 1200px) {
+			margin-left: 8rem;
+		}
+
+			li {
+
+			}
+
+
+
+	}
+}
+
+@include media-breakpoint-down(sm) {
+	.navbar-toggler-right {
+		margin-left: 85%;
+	}
+}
+
+.navbar-brand {
+	position: absolute;
+	top: 0;
+	background: white;
+	border-radius: $border-radius;
+	//top: 1rem;
+	padding: 0;
+	width: 9rem;
+
+	&.scaled {
+		width: 6rem;
+		box-shadow: none;
+		transition: width 500ms ease-in-out;
+	}
+	@include media-breakpoint-up(md) {
+		box-shadow: 0 8px 3px -3px rgba(0,0,0, .05);
+	}
+
+
+	a {
+		display: block;
+		overflow: hidden;
+
+	}
+}
+
+.nav-item {
+	margin: 0 1.75rem;
+
+
+
+	@media (min-width: 992px) {
+		margin: 0 1.25rem;
+	}
+
+	@media (min-width: 1200px) {
+		margin: 0 1.5rem;
+	}
+
+
+
+	a {
+		text-transform: uppercase;
+	}
+
+	&.btn-primary {
+		border-radius: $border-radius;
+		padding-left: 1rem;
+		padding-right: 1rem;
+	a {
+		color: white !important;
+	}
+	}
+}
+

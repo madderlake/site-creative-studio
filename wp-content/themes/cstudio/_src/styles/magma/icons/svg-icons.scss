@@ -1,0 +1,382 @@
+.icon {
+    display: inline-block;
+    width: 1em;
+    height: 1em;
+    stroke-width: 0;
+    stroke: currentColor;
+    fill: currentColor;
+}
+
+/* =======================================================================================
+Example showing how to change the color/size of the icons:
+.icon-name {
+    font-size: 32px; // works because "width" & "height" were set using em units
+    color: red; // works for single-colored icons, because "fill" was set to "currentColor"
+}
+======================================================================================== */
+
+.icon-add_person {
+    width: 1.3427734375em;
+}
+
+.icon-cloud2 {
+    width: 1.0712890625em;
+}
+
+.icon-arrow-left3 {
+    width: 0.8571428571428572em;
+}
+
+.icon-arrow-right3 {
+    width: 0.8571428571428572em;
+}
+
+.icon-arrow-up3 {
+    width: 0.9287109375em;
+}
+
+.icon-arrow-down3 {
+    width: 0.9287109375em;
+}
+
+.icon-music2 {
+    width: 0.8571428571428572em;
+}
+
+.icon-search2 {
+    width: 0.9287109375em;
+}
+
+.icon-star {
+    width: 0.9287109375em;
+}
+
+.icon-search-plus {
+    width: 0.9287109375em;
+}
+
+.icon-search-minus {
+    width: 0.9287109375em;
+}
+
+.icon-cog2 {
+    width: 0.8571428571428572em;
+}
+
+.icon-trash-o {
+    width: 0.7861328125em;
+}
+
+.icon-file-o {
+    width: 0.8571428571428572em;
+}
+
+.icon-book2 {
+    width: 0.9287109375em;
+}
+
+.icon-print {
+    width: 0.9287109375em;
+}
+
+.icon-pencil3 {
+    width: 0.8571428571428572em;
+}
+
+.icon-map-marker {
+    width: 0.5712890625em;
+}
+
+.icon-thumbs-o-up {
+    width: 0.8571428571428572em;
+}
+
+.icon-thumbs-o-down {
+    width: 0.8571428571428572em;
+}
+
+.icon-sign-in {
+    width: 0.8571428571428572em;
+}
+
+.icon-unlock {
+    width: 0.9287109375em;
+}
+
+.icon-feed5 {
+    width: 0.7861328125em;
+}
+
+.icon-wrench3 {
+    width: 0.9287109375em;
+}
+
+.icon-caret-down {
+    width: 0.5712890625em;
+}
+
+.icon-caret-up {
+    width: 0.5712890625em;
+}
+
+.icon-caret-left {
+    width: 0.357421875em;
+}
+
+.icon-caret-right {
+    width: 0.357421875em;
+}
+
+.icon-angle-left {
+    width: 0.357421875em;
+}
+
+.icon-angle-right {
+    width: 0.357421875em;
+}
+
+.icon-angle-up {
+    width: 0.642578125em;
+}
+
+.icon-angle-down {
+    width: 0.642578125em;
+}
+
+.icon-folder-o {
+    width: 0.9287109375em;
+}
+
+.icon-folder-open-o {
+    width: 1.0712890625em;
+}
+
+.icon-question2 {
+    width: 0.5712890625em;
+}
+
+.icon-info2 {
+    width: 0.357421875em;
+}
+
+.icon-exclamation {
+    width: 0.357421875em;
+}
+
+.icon-microphone {
+    width: 0.642578125em;
+}
+
+.icon-microphone-slash {
+    width: 0.7861328125em;
+}
+
+.icon-ellipsis-h {
+    width: 0.7861328125em;
+}
+
+.icon-ellipsis-v {
+    width: 0.2138671875em;
+}
+
+.icon-eur {
+    width: 0.5712890625em;
+}
+
+.icon-gbp {
+    width: 0.5712890625em;
+}
+
+.icon-dollar {
+    width: 0.5712890625em;
+}
+
+.icon-inr {
+    width: 0.5009765625em;
+}
+
+.icon-cny {
+    width: 0.5732421875em;
+}
+
+.icon-rouble {
+    width: 0.7138671875em;
+}
+
+.icon-bitcoin {
+    width: 0.7138671875em;
+}
+
+.icon-bug2 {
+    width: 0.9287109375em;
+}
+
+.icon-dot-circle-o {
+    width: 0.8571428571428572em;
+}
+
+.icon-bank {
+    width: 1.0711495535714284em;
+}
+
+.icon-graduation-cap {
+    width: 1.2861328125em;
+}
+
+.icon-spotify {
+    width: 0.8571428571428572em;
+}
+
+.icon-file-pdf-o {
+    width: 0.8571428571428572em;
+}
+
+.icon-file-word-o {
+    width: 0.8571428571428572em;
+}
+
+.icon-file-excel-o {
+    width: 0.8571428571428572em;
+}
+
+.icon-file-powerpoint-o {
+    width: 0.8571428571428572em;
+}
+
+.icon-file-image-o {
+    width: 0.8571428571428572em;
+}
+
+.icon-file-archive-o {
+    width: 0.8571428571428572em;
+}
+
+.icon-file-audio-o {
+    width: 0.8571428571428572em;
+}
+
+.icon-file-movie-o {
+    width: 0.8571428571428572em;
+}
+
+.icon-file-code-o {
+    width: 0.8571428571428572em;
+}
+
+.icon-cc-visa {
+    width: 1.2861328125em;
+}
+
+.icon-cc-mastercard {
+    width: 1.2861328125em;
+}
+
+.icon-cc-discover {
+    width: 1.2861328125em;
+}
+
+.icon-cc-amex {
+    width: 1.2861328125em;
+}
+
+.icon-cc-paypal {
+    width: 1.2861328125em;
+}
+
+.icon-cc-stripe {
+    width: 1.2861328125em;
+}
+
+.icon-alert {
+    width: 0.6962890625em;
+}
+
+.icon-assign {
+    width: 1.0068359375em;
+}
+
+.icon-bell {
+    width: 1.111328125em;
+}
+
+.icon-bubble {
+    width: 0.9970703125em;
+}
+
+.icon-calendar {
+    width: 0.97265625em;
+}
+
+.icon-check {
+    width: 1.111328125em;
+}
+
+.icon-clock {
+    width: 0.97265625em;
+}
+#icon-clock .path1 {
+    fill: #fff;
+}
+#icon-clock .path2, #icon-clock .path3 {
+    fill: #414042;
+}
+
+.icon-extracredit2 {
+    width: 1.33984375em;
+}
+
+.icon-flashcards {
+    width: 0.97265625em;
+}
+
+.icon-lightning {
+    width: 0.796875em;
+}
+
+.icon-list {
+    width: 0.97265625em;
+}
+
+.icon-pin {
+    width: 0.9833984375em;
+}
+
+.icon-profile {
+    width: 0.9970703125em;
+}
+
+.icon-reading2 {
+    width: 0.97265625em;
+}
+
+.icon-target {
+    width: 1.0068359375em;
+}
+
+.icon-timed {
+    width: 0.97265625em;
+}
+
+.icon-video {
+    width: 0.97265625em;
+}
+
+.icon-images {
+    width: 1.125em;
+}
+
+.icon-connection {
+    width: 1.25em;
+}
+
+.icon-menu2 {
+    width: 1.375em;
+}
+
+.icon-menu3 {
+    width: 1.375em;
+}
+
+.icon-menu4 {
+    width: 1.375em;
+}
